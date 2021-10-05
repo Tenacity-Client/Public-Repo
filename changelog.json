@@ -1,0 +1,38 @@
+[
+  {
+    "changeType": "NEW",
+    "changeDescription": "New UI"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Complete recode of every module"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "New Clickgui"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Config Gui"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Spotify Integration"
+  },
+  {
+    "changeType": "DELETE",
+    "changeDescription": "Removed Foggy Clickgui and other clickgui modes"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added scripting (cedoscript)"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Updated Bypasses"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Arraylist recoded and is now draggable"
+  }
+]
