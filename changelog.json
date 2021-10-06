@@ -9,11 +9,11 @@
   },
   {
     "changeType": "NEW",
-    "changeDescription": "New Clickgui"
+    "changeDescription": "New ClickGUI"
   },
   {
     "changeType": "NEW",
-    "changeDescription": "Config Gui"
+    "changeDescription": "Config GUI"
   },
   {
     "changeType": "NEW",
@@ -21,7 +21,7 @@
   },
   {
     "changeType": "DELETE",
-    "changeDescription": "Removed Foggy Clickgui and other clickgui modes"
+    "changeDescription": "Removed Foggy ClickGUI and other ClickGUI modes"
   },
   {
     "changeType": "NEW",
@@ -29,7 +29,7 @@
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "Updated Bypasses"
+    "changeDescription": "Updated bypasses"
   },
   {
     "changeType": "UPDATE",
