@@ -1,18 +1,18 @@
 [
   {
-    "changeType": "FIX",
-    "changeDescription": "Recoded every Module"
+    "changeType": "1",
+    "changeDescription": "New UI"
   },
   {
-    "changeType": "NEW",
-    "changeDescription": "Online Configs"
+    "changeType": "1",
+    "changeDescription": "Recoded every module"
   },
   {
-    "changeType": "NEW",
-    "changeDescription": "Complete new UI"
+    "changeType": "1",
+    "changeDescription": "Online configs"
   },
   {
-    "changeType": "UPDATE",
+    "changeType": "3",
     "changeDescription": "Updated too much stuff to list"
   }
 ]
