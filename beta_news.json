@@ -1,8 +1,11 @@
 [
   {
-    "newsDescription": "Beta released, have fun!"
+    "newsDescription": "Added new developer, (senoe)"
   },
   {
-    "newsDescription": "Added a new developer (senoe)"
+    "newsDescription": "Released Beta, have fun!"
+  },
+  {
+    "newsDescription": "Scripting support will come in the next beta update."
   }
 ]
