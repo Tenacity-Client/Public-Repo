@@ -78,5 +78,9 @@
   {
     "changeType": "FIX",
     "changeDescription": "Fixed chat not being able to be clicked"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed spotify module crashing"
   }
 ]
