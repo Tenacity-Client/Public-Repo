@@ -1,18 +1,82 @@
 [
   {
-    "changeType": "NEW",
-    "changeDescription": "New UI"
+    "changeType": "UPDATE",
+    "changeDescription": "Scoreboard text shadow"
   },
   {
-    "changeType": "NEW",
-    "changeDescription": "Recoded every module"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Online configs"
+    "changeType": "FIX",
+    "changeDescription": "Fixed WD longjump"
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "Updated too much stuff to list"
+    "changeDescription": "Updated Staff Analyzer to senoe\u0027s server"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Scaffold timer boost and scaffold sprint setting updated"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "New scaffold tower"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Windowed full screen"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed fps lag hopefully"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed targethud not showing"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added cedoscript api"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added Backtracking"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "edit mode for nofall"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Disable buttons in chest and inventory guis"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "fixed speed lagbacks"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Added block support to invmanager"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Added important modules mode to arraylist"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Added scoreboard shift to arraylist"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added logo to gui in game menu"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "AAC aura"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "blink antifall"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed chat not being able to be clicked"
   }
 ]
