@@ -15,8 +15,12 @@
         "value": "Range"
       },
       {
-        "name": "Autoblock Mode",
+        "name": "Block Mode",
         "value": "Watchdog"
+      },
+      {
+        "name": "Autoblock",
+        "value": true
       },
       {
         "name": "APS",
@@ -35,16 +39,28 @@
         "value": 750.0
       },
       {
-        "name": "Autoblock",
+        "name": "Swords only",
+        "value": false
+      },
+      {
+        "name": "Smoothing",
+        "value": 180.0
+      },
+      {
+        "name": "GCD",
         "value": true
       },
       {
-        "name": "Swords only",
-        "value": false
+        "name": "CPS Randomization",
+        "value": 1.0
+      },
+      {
+        "name": "MoveFix Mode",
+        "value": "None"
       }
     ],
     "name": "KillAura",
-    "toggled": true
+    "toggled": false
   },
   {
     "keyCode": 0,
@@ -480,7 +496,19 @@
         "value": 34
       },
       {
-        "name": "Item spoof",
+        "name": "Mode",
+        "value": "Watchdog"
+      },
+      {
+        "name": "Timer Speed",
+        "value": 1.0
+      },
+      {
+        "name": "Timer Boost",
+        "value": false
+      },
+      {
+        "name": "Item Spoof",
         "value": true
       },
       {
@@ -490,6 +518,30 @@
       {
         "name": "Swing",
         "value": true
+      },
+      {
+        "name": "Smoothing",
+        "value": 100.0
+      },
+      {
+        "name": "Randomize",
+        "value": 10.0
+      },
+      {
+        "name": "Yaw Offset",
+        "value": 1.0
+      },
+      {
+        "name": "Optimize",
+        "value": false
+      },
+      {
+        "name": "Sync",
+        "value": false
+      },
+      {
+        "name": "GCD",
+        "value": false
       },
       {
         "name": "Sprint",
@@ -530,19 +582,7 @@
         "value": "Watchdog (New)"
       },
       {
-        "name": "Watchdog Mode",
-        "value": "Hop"
-      },
-      {
         "name": "Timer Boost",
-        "value": false
-      },
-      {
-        "name": "No Strafe",
-        "value": false
-      },
-      {
-        "name": "Disabler",
         "value": false
       },
       {
@@ -660,7 +700,7 @@
       }
     ],
     "name": "AntiFall",
-    "toggled": true
+    "toggled": false
   },
   {
     "keyCode": 0,
@@ -717,6 +757,10 @@
         "value": 4.0
       },
       {
+        "name": "Block Slot",
+        "value": 7.0
+      },
+      {
         "name": "Only while not moving",
         "value": true
       },
@@ -730,7 +774,7 @@
       },
       {
         "name": "Drop food",
-        "value": false
+        "value": true
       }
     ],
     "name": "InvManager",
@@ -850,16 +894,20 @@
         "value": 0
       },
       {
-        "name": "Watermark",
-        "value": "Text"
-      },
-      {
         "name": "Client Name",
         "value": ""
       },
       {
+        "name": "Watermark",
+        "value": "Text"
+      },
+      {
         "name": "Client Font",
         "value": "Tenacity"
+      },
+      {
+        "name": "Display",
+        "value": "Username"
       },
       {
         "name": "Better Chat",
@@ -867,7 +915,7 @@
       },
       {
         "name": "Clear Chat",
-        "value": false
+        "value": true
       },
       {
         "name": "Lowercase HUD",
@@ -882,8 +930,12 @@
         "value": true
       },
       {
-        "name": "Display",
-        "value": "Username"
+        "name": "Mod Disable Buttons",
+        "value": true
+      },
+      {
+        "name": "Scoreboard Text Shadow",
+        "value": true
       }
     ],
     "name": "HUD",
@@ -959,6 +1011,10 @@
         "value": 0
       },
       {
+        "name": "Important Modules",
+        "value": true
+      },
+      {
         "name": "Sort Method",
         "value": "Regular"
       },
@@ -976,7 +1032,7 @@
       },
       {
         "name": "Background Alpha",
-        "value": 0.61
+        "value": 0.01
       },
       {
         "name": "Color Theme",
@@ -1003,11 +1059,11 @@
       },
       {
         "name": "Radius",
-        "value": 12.0
+        "value": 11.0
       },
       {
         "name": "Compression",
-        "value": 1.0
+        "value": 3.0
       },
       {
         "name": "Blur Shadow",
@@ -1038,7 +1094,7 @@
       },
       {
         "name": "Mode",
-        "value": "Exhi"
+        "value": "Remix"
       },
       {
         "name": "Swing Mode",
@@ -1162,11 +1218,11 @@
       },
       {
         "name": "Color",
-        "value": -20561
+        "value": -2471937
       },
       {
         "name": "Walls",
-        "value": -1273903
+        "value": -1
       },
       {
         "name": "Outline",
@@ -1174,7 +1230,7 @@
       }
     ],
     "name": "ChestESP",
-    "toggled": false
+    "toggled": true
   },
   {
     "keyCode": 0,
@@ -1240,7 +1296,7 @@
       },
       {
         "name": "Color",
-        "value": -1273903
+        "value": -65355
       }
     ],
     "name": "Glint",
@@ -1278,11 +1334,11 @@
       },
       {
         "name": "X",
-        "value": 81.5
+        "value": 82.5
       },
       {
         "name": "Y",
-        "value": 68.5
+        "value": 68.0
       },
       {
         "name": "Mode",
@@ -1294,7 +1350,7 @@
       }
     ],
     "name": "TargetHUD",
-    "toggled": false
+    "toggled": true
   },
   {
     "keyCode": 0,
@@ -1317,11 +1373,11 @@
       },
       {
         "name": "Theme",
-        "value": "Chill Rainbow"
+        "value": "Custom Color"
       },
       {
         "name": "Color",
-        "value": -65536
+        "value": -16758785
       }
     ],
     "name": "Chams",
@@ -1370,7 +1426,7 @@
       },
       {
         "name": "Text Effect",
-        "value": "Shadow"
+        "value": "Outline"
       },
       {
         "name": "Health Number",
@@ -1386,7 +1442,7 @@
       }
     ],
     "name": "NameTags",
-    "toggled": false
+    "toggled": true
   },
   {
     "keyCode": 0,
@@ -1447,7 +1503,7 @@
       },
       {
         "name": "Glow Color",
-        "value": -1
+        "value": -11146241
       },
       {
         "name": "Exposure",
@@ -1493,7 +1549,7 @@
       }
     ],
     "name": "ChinaHat",
-    "toggled": true
+    "toggled": false
   },
   {
     "keyCode": 0,
@@ -1679,6 +1735,21 @@
       }
     ],
     "name": "OneShot",
+    "toggled": false
+  },
+  {
+    "keyCode": 0,
+    "settings": [
+      {
+        "name": "Keybind",
+        "value": 0
+      },
+      {
+        "name": "Delay MS",
+        "value": 100.0
+      }
+    ],
+    "name": "BackTracking",
     "toggled": false
   },
   {
