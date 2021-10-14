@@ -13,6 +13,10 @@
   },
   {
     "changeType": "DELETE",
-    "changeDescription": "Remove watchdog disab"
+    "changeDescription": "Remove watchdog disabler"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed Scripting packets"
   }
 ]
