@@ -8,11 +8,43 @@
       },
       {
         "name": "Mode",
-        "value": "Switch"
+        "value": "Single"
       },
       {
         "name": "Sort",
-        "value": "Range"
+        "value": "Health"
+      },
+      {
+        "name": "Targets",
+        "value": false
+      },
+      {
+        "name": "Players",
+        "value": true
+      },
+      {
+        "name": "Animals",
+        "value": false
+      },
+      {
+        "name": "Mobs",
+        "value": true
+      },
+      {
+        "name": "Dead",
+        "value": false
+      },
+      {
+        "name": "Teams",
+        "value": false
+      },
+      {
+        "name": "Villagers",
+        "value": false
+      },
+      {
+        "name": "Invisibles",
+        "value": false
       },
       {
         "name": "Block Mode",
@@ -24,15 +56,15 @@
       },
       {
         "name": "APS",
-        "value": 12.0
+        "value": 9.0
       },
       {
         "name": "Swing Range",
-        "value": 6.0
+        "value": 6.2
       },
       {
         "name": "Attack Range",
-        "value": 4.2
+        "value": 4.4
       },
       {
         "name": "Switch Delay",
@@ -138,7 +170,7 @@
       },
       {
         "name": "Bot Remover",
-        "value": false
+        "value": true
       }
     ],
     "name": "AntiBot",
@@ -307,11 +339,11 @@
       },
       {
         "name": "Mode",
-        "value": "FOV"
+        "value": "Smooth"
       },
       {
         "name": "FOV",
-        "value": 360.0
+        "value": 161.0
       },
       {
         "name": "Smoothing Type",
@@ -343,7 +375,7 @@
       },
       {
         "name": "Speed",
-        "value": 1.6
+        "value": 1.0
       }
     ],
     "name": "TargetStrafe",
@@ -579,7 +611,11 @@
       },
       {
         "name": "Mode",
-        "value": "Watchdog (New)"
+        "value": "Watchdog"
+      },
+      {
+        "name": "Watchdog Mode",
+        "value": "New"
       },
       {
         "name": "Timer Boost",
@@ -1094,7 +1130,7 @@
       },
       {
         "name": "Mode",
-        "value": "Remix"
+        "value": "Alts"
       },
       {
         "name": "Swing Mode",
@@ -1230,7 +1266,7 @@
       }
     ],
     "name": "ChestESP",
-    "toggled": true
+    "toggled": false
   },
   {
     "keyCode": 0,
@@ -1334,11 +1370,11 @@
       },
       {
         "name": "X",
-        "value": 82.5
+        "value": 114.5
       },
       {
         "name": "Y",
-        "value": 68.0
+        "value": 63.5
       },
       {
         "name": "Mode",
@@ -1503,11 +1539,11 @@
       },
       {
         "name": "Glow Color",
-        "value": -11146241
+        "value": -1
       },
       {
         "name": "Exposure",
-        "value": 2.0
+        "value": 2.1
       },
       {
         "name": "Radius",
@@ -1628,11 +1664,11 @@
       },
       {
         "name": "Mode",
-        "value": "Watchdog"
+        "value": "Verus Combat"
       }
     ],
     "name": "Disabler",
-    "toggled": true
+    "toggled": false
   },
   {
     "keyCode": 0,
@@ -1882,7 +1918,7 @@
   },
   {
     "keyCode": -1,
-    "name": "Notification Example",
+    "name": "packetTwest",
     "toggled": false
   },
   {
