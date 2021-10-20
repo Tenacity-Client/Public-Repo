@@ -5,7 +5,7 @@
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fix arraylist outline"
+    "changeDescription": "Fixed ArrayList outline"
   },
   {
     "changeType": "NEW",
@@ -13,58 +13,70 @@
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "center clickgui on opening"
+    "changeDescription": "Made ClickGUI centered on first open"
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "Rename antifall to antivoid"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added Multi Boolean selection settings"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "damageless boost longjump"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "sprint scaffold bypass"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "hypixel fireball highjump"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "fix nofall"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Recode watermark, and change how colors work within the client"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Ctrl + f allows u to search modules in the clickgui"
+    "changeDescription": "Made ClickGUI sorted alphabetically"
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "rename hudmod to client"
+    "changeDescription": "Renamed AntiFall to AntiVoid"
   },
   {
     "changeType": "NEW",
-    "changeDescription": "hypixel step"
+    "changeDescription": "Added multi boolean selection settings"
   },
   {
     "changeType": "NEW",
-    "changeDescription": "Breadcrumbs line fade mode"
+    "changeDescription": "Added damageless boost longjump"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added sprint scaffold bypass"
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fix scaffold blacklist"
+    "changeDescription": "Fixed Scaffold blacklist"
   },
   {
     "changeType": "NEW",
-    "changeDescription": "bow works with invmanager now"
+    "changeDescription": "Added Hypixel fireball highjump"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed NoFall"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Recoded watermark + changed how colors work"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added Ctrl + F to search in the ClickGUI"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Renamed HUD to Client"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added Hypixel Step"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added Target ESP to KillAura"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added a \"placed only\" option to ChestESP"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added line fade mode to Breadcrumbs"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added bow slot to InvManager"
   }
 ]
