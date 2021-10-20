@@ -1,22 +1,70 @@
 [
   {
+    "changeType": "NEW",
+    "changeDescription": "Potion HUD"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fix arraylist outline"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Cool chat opening animation"
+  },
+  {
     "changeType": "UPDATE",
-    "changeDescription": "Made scaffold tower look smoother"
+    "changeDescription": "center clickgui on opening"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Rename antifall to antivoid"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added Multi Boolean selection settings"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "damageless boost longjump"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "sprint scaffold bypass"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "hypixel fireball highjump"
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fixed Autoblock error"
+    "changeDescription": "fix nofall"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Recode watermark, and change how colors work within the client"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Ctrl + f allows u to search modules in the clickgui"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "rename hudmod to client"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "hypixel step"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Breadcrumbs line fade mode"
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fixed noslow error"
+    "changeDescription": "Fix scaffold blacklist"
   },
   {
-    "changeType": "DELETE",
-    "changeDescription": "Remove watchdog disabler"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Fixed Scripting packets"
+    "changeType": "NEW",
+    "changeDescription": "bow works with invmanager now"
   }
 ]
