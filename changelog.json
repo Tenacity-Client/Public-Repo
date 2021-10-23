@@ -20,10 +20,6 @@
     "changeDescription": "Spotify Integration"
   },
   {
-    "changeType": "DELETE",
-    "changeDescription": "Removed Foggy ClickGUI and other ClickGUI modes"
-  },
-  {
     "changeType": "NEW",
     "changeDescription": "Added scripting (cedoscript)"
   },
@@ -31,8 +27,4 @@
     "changeType": "UPDATE",
     "changeDescription": "Updated bypasses"
   },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Arraylist recoded and is now draggable"
-  }
 ]
