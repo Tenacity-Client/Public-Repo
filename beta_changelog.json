@@ -1,82 +1,153 @@
 [
-  {
-    "changeType": "NEW",
-    "changeDescription": "Potion HUD"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Fixed ArrayList outline"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Cool chat opening animation"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Made ClickGUI centered on first open"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Made ClickGUI sorted alphabetically"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Renamed AntiFall to AntiVoid"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added multi boolean selection settings"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added damageless boost longjump"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added sprint scaffold bypass"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Fixed Scaffold blacklist"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added Hypixel fireball highjump"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Fixed NoFall"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Recoded watermark + changed how colors work"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added Ctrl + F to search in the ClickGUI"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Renamed HUD to Client"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added Hypixel Step"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added Target ESP to KillAura"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added a \"placed only\" option to ChestESP"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added line fade mode to Breadcrumbs"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added bow slot to InvManager"
-  }
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added %time% placeholder to watermark"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added auto /hub and AntiAtlas to AutoHypixel"
+    },
+    {
+      "changeType": "FIX",
+      "changeDescription": "Fixed Scaffold not placing blocks on slabs, stairs, etc."
+    },
+    {
+      "changeType": "FIX",
+      "changeDescription": "Fixed InvManager not working on the escape menu"
+    },
+    {
+      "changeType": "UPDATE",
+      "changeDescription": "Improved Tenacity TargetHUD"
+    },
+    {
+      "changeType": "UPDATE",
+      "changeDescription": "Improved Config GUI"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added username to the ban screen"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added HvH settings to KillAura"
+    },
+    {
+      "changeType": "UPDATE",
+      "changeDescription": "Improved KillAura autoblock"
+    },
+    {
+      "changeType": "FIX",
+      "changeDescription": "Fixed KillAura teams"
+    },
+    {
+      "changeType": "FIX",
+      "changeDescription": "Fixed packet criticals"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added AutoHead"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added Armor HUD"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added a fake autoblock mode to KillAura"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added a hurt time sort mode to KillAura"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Made Step timer customizable"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added Hypixel edit criticals"
+    },
+    {
+      "changeType": "UPDATE",
+      "changeDescription": "Improved keystrokes"
+    },
+    {
+      "changeType": "UPDATE",
+      "changeDescription": "Improved NameTags"
+    },
+    {
+      "changeType": "FIX",
+      "changeDescription": "Fixed ESP bug"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added onChatReceived/onSafeWalk events to cedoscript"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added a safewalk option to Scaffold"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Made the TargetStrafe circle animated"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added current account username to alt manager screen"
+    },
+    {
+        "changeType": "FIX",
+        "changeDescription": "Fixed ping displaying as 1ms on Hypixel"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Made fast render automatically turn off"
+    },
+    {
+      "changeType": "FIX",
+      "changeDescription": "Fixed Verus Combat disabler"
+    },
+    {
+      "changeType": "UPDATE",
+      "changeDescription": "Collide fly now works on BlocksMC"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added a Verus NoFall"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added Discord RPC"
+    },
+    {
+      "changeType": "UPDATE",
+      "changeDescription": "Scripts now handle errors completly"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added Old Verus disabler, Pos Cancel Disabler"
+    },
+
+    {
+      "changeType": "NEW",
+      "changeDescription": "Ground Spoof Crits"
+    },
+
+    {
+      "changeType": "UPDATE",
+      "changeDescription": "Added InvManager option to send inventory packets"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added Alpha to color object in scripting"
+    },
+    {
+      "changeType": "NEW",
+      "changeDescription": "Added get Client Color to scripting"
+    },
+    {
+      "changeType": "FIX",
+      "changeDescription": "Made Step module work with lowhop"
+    },
+
 ]
