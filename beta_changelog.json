@@ -127,12 +127,10 @@
       "changeType": "NEW",
       "changeDescription": "Added Old Verus disabler, Pos Cancel Disabler"
     },
-
     {
       "changeType": "NEW",
       "changeDescription": "Ground Spoof Crits"
     },
-
     {
       "changeType": "UPDATE",
       "changeDescription": "Added InvManager option to send inventory packets"
@@ -148,6 +146,5 @@
     {
       "changeType": "FIX",
       "changeDescription": "Made Step module work with lowhop"
-    },
-
+    }
 ]
