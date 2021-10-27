@@ -1,150 +1,26 @@
 [
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added %time% placeholder to watermark"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added auto /hub and AntiAtlas to AutoHypixel"
-    },
-    {
-      "changeType": "FIX",
-      "changeDescription": "Fixed Scaffold not placing blocks on slabs, stairs, etc."
-    },
-    {
-      "changeType": "FIX",
-      "changeDescription": "Fixed InvManager not working on the escape menu"
-    },
-    {
-      "changeType": "UPDATE",
-      "changeDescription": "Improved Tenacity TargetHUD"
-    },
-    {
-      "changeType": "UPDATE",
-      "changeDescription": "Improved Config GUI"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added username to the ban screen"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added HvH settings to KillAura"
-    },
-    {
-      "changeType": "UPDATE",
-      "changeDescription": "Improved KillAura autoblock"
-    },
-    {
-      "changeType": "FIX",
-      "changeDescription": "Fixed KillAura teams"
-    },
-    {
-      "changeType": "FIX",
-      "changeDescription": "Fixed packet criticals"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added AutoHead"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added Armor HUD"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added a fake autoblock mode to KillAura"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added a hurt time sort mode to KillAura"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Made Step timer customizable"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added Hypixel edit criticals"
-    },
-    {
-      "changeType": "UPDATE",
-      "changeDescription": "Improved keystrokes"
-    },
-    {
-      "changeType": "UPDATE",
-      "changeDescription": "Improved NameTags"
-    },
-    {
-      "changeType": "FIX",
-      "changeDescription": "Fixed ESP bug"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added onChatReceived/onSafeWalk events to cedoscript"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added a safewalk option to Scaffold"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Made the TargetStrafe circle animated"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added current account username to alt manager screen"
-    },
-    {
-        "changeType": "FIX",
-        "changeDescription": "Fixed ping displaying as 1ms on Hypixel"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Made fast render automatically turn off"
-    },
-    {
-      "changeType": "FIX",
-      "changeDescription": "Fixed Verus Combat disabler"
-    },
-    {
-      "changeType": "UPDATE",
-      "changeDescription": "Collide fly now works on BlocksMC"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added a Verus NoFall"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added Discord RPC"
-    },
-    {
-      "changeType": "UPDATE",
-      "changeDescription": "Scripts now handle errors completly"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added Old Verus disabler, Pos Cancel Disabler"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Ground Spoof Crits"
-    },
-    {
-      "changeType": "UPDATE",
-      "changeDescription": "Added InvManager option to send inventory packets"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added Alpha to color object in scripting"
-    },
-    {
-      "changeType": "NEW",
-      "changeDescription": "Added get Client Color to scripting"
-    },
-    {
-      "changeType": "FIX",
-      "changeDescription": "Made Step module work with lowhop"
-    }
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Faster search animation for clickgui"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed nametags hp bug"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed chat font bug"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Added circle option to targetstrafe"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Made rainbow arraylist less aids"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Made notifications completly smooth now"
+  }
 ]
