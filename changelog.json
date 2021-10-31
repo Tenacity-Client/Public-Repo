@@ -1,30 +1,66 @@
 [
   {
-    "changeType": "NEW",
-    "changeDescription": "New UI"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Complete recode of every module"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "New ClickGUI"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Config GUI"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Spotify Integration"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added scripting (cedoscript)"
+    "changeType": "FIX",
+    "changeDescription": "Fixed step not working with speed"
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "Updated bypasses"
+    "changeDescription": "added more invmanager options and bug fixes"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Added more functions to scripting"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added new disablers"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added Discord RPC"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed ping ui bug on hypixel"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Improved Nametags"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Updated Keystrokes, Killaura, BoxESP, and Criticals"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Armor Hud"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added %time% placeholder to watermark"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed notifications not being smooth"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Updated Targetstrafe UI"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Updated animations for ConfigGui and ClickGui"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Updated Spotify UI"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Fixed Bans and added damage longjump"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Scripts do not load on launch anymore"
   }
 ]
