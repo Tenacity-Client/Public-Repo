@@ -1,30 +1,30 @@
 [
   {
     "changeType": "UPDATE",
-    "changeDescription": "Made longjump more consistent"
+    "changeDescription": "Made LongJump more consistent"
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fixed Edit nofall (should work on hypixel)"
+    "changeDescription": "Fixed Edit NoFall (should work on Hypixel)"
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fixed Teams in killaura"
+    "changeDescription": "Fixed Teams in KillAura"
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fixed DiscordRPC not working on Mac OS"
+    "changeDescription": "Fixed Discord RPC not working on Mac OS"
   },
   {
     "changeType": "NEW",
     "changeDescription": "Added more stuff to scripting"
   },
   {
-    "changeType": "FIX",
-    "changeDescription": "Fixed antibot"
+    "changeType": "UPDATE",
+    "changeDescription": "Made TargetHUD health animation slower"
   },
   {
-    "changeType": "UPDATE",
-    "changeDescription": "Made TargetHud health animation slower"
+    "changeType": "FIX",
+    "changeDescription": "Fixed AntiBot"
   }
 ]
