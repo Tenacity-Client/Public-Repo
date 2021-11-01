@@ -1,11 +1,11 @@
 [
   {
     "changeType": "FIX",
-    "changeDescription": "Fixed step not working with speed"
+    "changeDescription": "Fixed Step not working with Speed"
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "added more invmanager options and bug fixes"
+    "changeDescription": "Improved InvManager"
   },
   {
     "changeType": "UPDATE",
@@ -21,19 +21,19 @@
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fixed ping ui bug on hypixel"
+    "changeDescription": "Fixed 1ms ping display on Hypixel"
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "Improved Nametags"
+    "changeDescription": "Improved NameTags"
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "Updated Keystrokes, Killaura, BoxESP, and Criticals"
+    "changeDescription": "Updated Keystrokes, KillAura, BoxESP, and Criticals"
   },
   {
     "changeType": "NEW",
-    "changeDescription": "Armor Hud"
+    "changeDescription": "Added Armor HUD"
   },
   {
     "changeType": "NEW",
@@ -45,11 +45,11 @@
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "Updated Targetstrafe UI"
+    "changeDescription": "Improved TargetStrafe rendering"
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "Updated animations for ConfigGui and ClickGui"
+    "changeDescription": "Updated ConfigGUI and ClickGUI animations"
   },
   {
     "changeType": "UPDATE",
@@ -57,7 +57,7 @@
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "Fixed Bans and added damage longjump"
+    "changeDescription": "Fixed bans and added damage longjump"
   },
   {
     "changeType": "UPDATE",
