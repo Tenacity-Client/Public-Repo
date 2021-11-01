@@ -1,66 +1,30 @@
 [
   {
-    "changeType": "FIX",
-    "changeDescription": "Fixed Step not working with Speed"
-  },
-  {
     "changeType": "UPDATE",
-    "changeDescription": "Improved InvManager"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Added more functions to scripting"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added new disablers"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added Discord RPC"
+    "changeDescription": "Made longjump more consistent"
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fixed 1ms ping display on Hypixel"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Improved NameTags"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Updated Keystrokes, KillAura, BoxESP, and Criticals"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added Armor HUD"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added %time% placeholder to watermark"
+    "changeDescription": "Fixed Edit nofall (should work on hypixel)"
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fixed notifications not being smooth"
+    "changeDescription": "Fixed Teams in killaura"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed DiscordRPC not working on Mac OS"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added more stuff to scripting"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed antibot"
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "Improved TargetStrafe rendering"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Updated ConfigGUI and ClickGUI animations"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Updated Spotify UI"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Fixed bans and added damage longjump"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Scripts do not load on launch anymore"
+    "changeDescription": "Made TargetHud health animation slower"
   }
 ]
