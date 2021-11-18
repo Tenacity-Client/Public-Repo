@@ -1,58 +1,6 @@
 [
   {
-    "changeType": "UPDATE",
-    "changeDescription": "Made LongJump more consistent"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Fixed towering against walls"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Improved TargetHUD animation"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Improved notification design"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Unpatched Hypixel bypasses"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Updated server disablers"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "New main menu info boxes"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Updated Notification settings"
-  },
-  {
     "changeType": "NEW",
-    "changeDescription": "Added Reconnect button"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Improved help command"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Improved event system"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Fixed autoblock bugs"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Fixed NoSlow bugs"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added Xray"
-  },
+    "changeDescription": "Test"
+  }
 ]
