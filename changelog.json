@@ -5,26 +5,54 @@
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fixed Edit NoFall (should work on Hypixel)"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Fixed Teams in KillAura"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Fixed Discord RPC not working on Mac OS"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added more stuff to scripting"
+    "changeDescription": "Fixed towering against walls"
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "Made TargetHUD health animation slower"
+    "changeDescription": "Improved TargetHUD animation"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Improved notification design"
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fixed AntiBot"
-  }
+    "changeDescription": "Unpatched Hypixel bypasses"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Updated server disablers"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "New main menu info boxes"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Updated Notification settings"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added Reconnect button"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Improved help command"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Improved event system"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed autoblock bugs"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed NoSlow bugs"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added Xray"
+  },
 ]

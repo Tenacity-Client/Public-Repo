@@ -16,7 +16,7 @@
       {
         "name": "Targets",
         "value": {
-          "Villagers": false,
+          "Villagers": true,
           "Animals": false,
           "Invisibles": false,
           "Dead": false,
@@ -37,6 +37,14 @@
         "value": "Switch"
       },
       {
+        "name": "Tp Range",
+        "value": 65.0
+      },
+      {
+        "name": "Switch Delay",
+        "value": 750.0
+      },
+      {
         "name": "Sort",
         "value": "Range"
       },
@@ -45,28 +53,48 @@
         "value": "Hypixel"
       },
       {
+        "name": "Block Range",
+        "value": 5.4
+      },
+      {
+        "name": "Max Attack Range",
+        "value": 4.2
+      },
+      {
+        "name": "Min Attack Range",
+        "value": 4.2
+      },
+      {
+        "name": "Attack",
+        "value": false
+      },
+      {
+        "name": "Attack Mode",
+        "value": "Pre"
+      },
+      {
+        "name": "APS",
+        "value": 11.0
+      },
+      {
+        "name": "CPS Randomization",
+        "value": 0.0
+      },
+      {
+        "name": "Swords only",
+        "value": false
+      },
+      {
         "name": "Block Mode",
         "value": "Watchdog"
       },
       {
+        "name": "UnBlock Mode",
+        "value": "Negitive"
+      },
+      {
         "name": "Autoblock",
         "value": true
-      },
-      {
-        "name": "APS",
-        "value": 9.0
-      },
-      {
-        "name": "Swing Range",
-        "value": 6.0
-      },
-      {
-        "name": "Attack Range",
-        "value": 4.2
-      },
-      {
-        "name": "Switch Delay",
-        "value": 750.0
       },
       {
         "name": "Target ESP",
@@ -77,11 +105,7 @@
         "value": -1
       },
       {
-        "name": "Swords only",
-        "value": false
-      },
-      {
-        "name": "RayCast",
+        "name": "Rotations",
         "value": false
       },
       {
@@ -89,16 +113,28 @@
         "value": 180.0
       },
       {
+        "name": "Predict",
+        "value": 0.0
+      },
+      {
+        "name": "Randomize",
+        "value": 0.0
+      },
+      {
         "name": "GCD",
         "value": true
       },
       {
         "name": "Derp Rotations",
-        "value": true
+        "value": false
       },
       {
-        "name": "CPS Randomization",
-        "value": 0.0
+        "name": "RayCast",
+        "value": false
+      },
+      {
+        "name": "Dynamic",
+        "value": false
       },
       {
         "name": "MoveFix Mode",
@@ -185,14 +221,6 @@
       {
         "name": "Keybind",
         "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Hypixel"
-      },
-      {
-        "name": "Remove bots",
-        "value": false
       }
     ],
     "name": "AntiBot",
@@ -253,7 +281,7 @@
       },
       {
         "name": "Mode",
-        "value": "Packet"
+        "value": "Mini"
       },
       {
         "name": "Watchdog Mode",
@@ -261,7 +289,7 @@
       },
       {
         "name": "Ticks",
-        "value": 0.0
+        "value": 1.0
       },
       {
         "name": "Offset",
@@ -407,11 +435,11 @@
         "value": "Packet"
       },
       {
-        "name": "Horizontal",
+        "name": "Horizontal %",
         "value": 0.0
       },
       {
-        "name": "Vertical",
+        "name": "Vertical %",
         "value": 0.0
       },
       {
@@ -458,7 +486,7 @@
       },
       {
         "name": "Mode",
-        "value": "Verus"
+        "value": "Vanilla"
       },
       {
         "name": "Verus Mode",
@@ -466,11 +494,11 @@
       },
       {
         "name": "Speed",
-        "value": 2.8
+        "value": 3.3
       },
       {
         "name": "Boost",
-        "value": 1.0
+        "value": 2.0
       },
       {
         "name": "Start Speed",
@@ -479,6 +507,14 @@
       {
         "name": "Damage",
         "value": true
+      },
+      {
+        "name": "Anti-Kick",
+        "value": false
+      },
+      {
+        "name": "View Bobbing",
+        "value": false
       }
     ],
     "name": "Flight",
@@ -531,18 +567,6 @@
       {
         "name": "Spoof Y",
         "value": false
-      },
-      {
-        "name": "Damage",
-        "value": false
-      },
-      {
-        "name": "Disabler",
-        "value": false
-      },
-      {
-        "name": "Disabler Mode",
-        "value": "30"
       }
     ],
     "name": "LongJump",
@@ -556,20 +580,8 @@
         "value": 0
       },
       {
-        "name": "NCP",
-        "value": true
-      },
-      {
-        "name": "Offset",
-        "value": false
-      },
-      {
-        "name": "Timer",
-        "value": false
-      },
-      {
-        "name": "Interact",
-        "value": false
+        "name": "Mode",
+        "value": "NCP"
       }
     ],
     "name": "NoSlow",
@@ -603,6 +615,10 @@
         "value": false
       },
       {
+        "name": "Item Switcher",
+        "value": true
+      },
+      {
         "name": "Item Spoof",
         "value": true
       },
@@ -611,11 +627,19 @@
         "value": false
       },
       {
+        "name": "Keep Y",
+        "value": false
+      },
+      {
         "name": "Tower",
         "value": true
       },
       {
         "name": "Swing",
+        "value": false
+      },
+      {
+        "name": "Sprint",
         "value": false
       },
       {
@@ -641,10 +665,6 @@
       {
         "name": "GCD",
         "value": false
-      },
-      {
-        "name": "Sprint",
-        "value": true
       }
     ],
     "name": "Scaffold",
@@ -685,8 +705,8 @@
         "value": "New"
       },
       {
-        "name": "Timer Boost",
-        "value": false
+        "name": "Timer Speed",
+        "value": 1.0
       },
       {
         "name": "Boost",
@@ -745,6 +765,10 @@
         "value": false
       },
       {
+        "name": "Flags",
+        "value": true
+      },
+      {
         "name": "Verus Mode",
         "value": "Hop"
       }
@@ -788,7 +812,7 @@
       }
     ],
     "name": "Step",
-    "toggled": true
+    "toggled": false
   },
   {
     "keyCode": 0,
@@ -826,7 +850,7 @@
       }
     ],
     "name": "AntiVoid",
-    "toggled": true
+    "toggled": false
   },
   {
     "keyCode": 0,
@@ -864,11 +888,11 @@
       },
       {
         "name": "Delay",
-        "value": 120.0
+        "value": 90.0
       },
       {
         "name": "Send inventory packets",
-        "value": true
+        "value": false
       },
       {
         "name": "Only while not moving",
@@ -880,7 +904,7 @@
       },
       {
         "name": "Drop archery",
-        "value": false
+        "value": true
       },
       {
         "name": "Move arrows",
@@ -1037,7 +1061,7 @@
       },
       {
         "name": "Watermark",
-        "value": "Text"
+        "value": "Tenasense"
       },
       {
         "name": "Client Font",
@@ -1049,7 +1073,7 @@
       },
       {
         "name": "Cape",
-        "value": "Tenacity 1"
+        "value": "Gradient"
       },
       {
         "name": "Color Theme",
@@ -1061,7 +1085,7 @@
       },
       {
         "name": "Main Color",
-        "value": -65490
+        "value": -59583
       },
       {
         "name": "Alt Color",
@@ -1128,7 +1152,7 @@
       },
       {
         "name": "Expanded",
-        "value": true
+        "value": false
       },
       {
         "name": "Click Animations",
@@ -1144,7 +1168,7 @@
       },
       {
         "name": "Color",
-        "value": -9153092
+        "value": -9546580
       },
       {
         "name": "Mode",
@@ -1152,7 +1176,7 @@
       }
     ],
     "name": "ClickGUI",
-    "toggled": true
+    "toggled": false
   },
   {
     "keyCode": 0,
@@ -1162,12 +1186,16 @@
         "value": 0
       },
       {
-        "name": "Time",
-        "value": 2.5
+        "name": "Color Mode",
+        "value": "Colored"
+      },
+      {
+        "name": "Color",
+        "value": 0.45000000670552254
       },
       {
         "name": "Toggle",
-        "value": false
+        "value": true
       }
     ],
     "name": "Notifications",
@@ -1187,6 +1215,10 @@
       {
         "name": "Border",
         "value": "Sidebar"
+      },
+      {
+        "name": "Partial Outline",
+        "value": false
       },
       {
         "name": "Hide Render",
@@ -1221,7 +1253,7 @@
       },
       {
         "name": "Compression",
-        "value": 2.0
+        "value": 3.0
       },
       {
         "name": "Blur Shadow",
@@ -1260,11 +1292,11 @@
       },
       {
         "name": "Y",
-        "value": 52.0
+        "value": 44.0
       },
       {
         "name": "Size",
-        "value": 40.0
+        "value": 32.0
       },
       {
         "name": "Slow Amount",
@@ -1496,11 +1528,11 @@
       },
       {
         "name": "X",
-        "value": 100.5
+        "value": 95.0
       },
       {
         "name": "Y",
-        "value": 57.5
+        "value": 57.0
       }
     ],
     "name": "TargetHUD",
@@ -1579,12 +1611,17 @@
         "value": 0
       },
       {
-        "name": "Health Number",
-        "value": true
+        "name": "Scale",
+        "value": 0.6
       },
       {
-        "name": "Background",
-        "value": true
+        "name": "Effects",
+        "value": {
+          "Background": false,
+          "Formatting": false,
+          "Health Number": true,
+          "Background Effect": true
+        }
       },
       {
         "name": "Players",
@@ -1634,7 +1671,7 @@
       }
     ],
     "name": "Spotify",
-    "toggled": true
+    "toggled": false
   },
   {
     "keyCode": 0,
@@ -1669,7 +1706,7 @@
       },
       {
         "name": "Mobs and Animals",
-        "value": false
+        "value": true
       },
       {
         "name": "Avoid Entity",
@@ -1719,6 +1756,48 @@
     ],
     "name": "Ambience",
     "toggled": false
+  },
+  {
+    "keyCode": 37,
+    "settings": [
+      {
+        "name": "Keybind",
+        "value": 37
+      },
+      {
+        "name": "Ores",
+        "value": {
+          "Redstone": true,
+          "Gold": true,
+          "Emerald": true,
+          "Coal": true,
+          "Lapis": true,
+          "Diamond": true,
+          "Iron": true
+        }
+      },
+      {
+        "name": "Opacity",
+        "value": 60.0
+      },
+      {
+        "name": "Anti-xray bypass",
+        "value": false
+      }
+    ],
+    "name": "Xray",
+    "toggled": false
+  },
+  {
+    "keyCode": 0,
+    "settings": [
+      {
+        "name": "Keybind",
+        "value": 0
+      }
+    ],
+    "name": "SessionStats",
+    "toggled": true
   },
   {
     "keyCode": 0,
@@ -1785,8 +1864,16 @@
         "value": "Pos Cancel"
       },
       {
-        "name": "Veurs Mode",
+        "name": "Verus Mode",
         "value": "Combat"
+      },
+      {
+        "name": "Ghostly Mode",
+        "value": "Combat"
+      },
+      {
+        "name": "Show Mode",
+        "value": true
       }
     ],
     "name": "Disabler",
@@ -1836,7 +1923,7 @@
       }
     ],
     "name": "Phase",
-    "toggled": true
+    "toggled": false
   },
   {
     "keyCode": 0,
@@ -1897,6 +1984,17 @@
       }
     ],
     "name": "BackTracking",
+    "toggled": false
+  },
+  {
+    "keyCode": 0,
+    "settings": [
+      {
+        "name": "Keybind",
+        "value": 0
+      }
+    ],
+    "name": "No03",
     "toggled": false
   },
   {
@@ -1996,6 +2094,31 @@
       {
         "name": "Keybind",
         "value": 0
+      },
+      {
+        "name": "Checks",
+        "value": {
+          "NoFall A": true,
+          "KillAura A": true,
+          "NoSlow A": true,
+          "KillAura B": false,
+          "Fly B": true,
+          "Fly A": true,
+          "Speed A": true,
+          "Phase A": true,
+          "Speed B": true
+        }
+      }
+    ],
+    "name": "HackerDetector",
+    "toggled": false
+  },
+  {
+    "keyCode": 0,
+    "settings": [
+      {
+        "name": "Keybind",
+        "value": 0
       }
     ],
     "name": "Obsidian",
@@ -2069,5 +2192,35 @@
     ],
     "name": "AutoHypixel",
     "toggled": true
+  },
+  {
+    "keyCode": 0,
+    "settings": [
+      {
+        "name": "Keybind",
+        "value": 0
+      },
+      {
+        "name": "Delay (s)",
+        "value": 0.0
+      },
+      {
+        "name": "Password",
+        "value": "towel"
+      }
+    ],
+    "name": "AutoAuth",
+    "toggled": false
+  },
+  {
+    "keyCode": 0,
+    "settings": [
+      {
+        "name": "Keybind",
+        "value": 0
+      }
+    ],
+    "name": "AntiFalse",
+    "toggled": false
   }
 ]
