@@ -1,2127 +1,14 @@
 [
   {
-    "keyCode": 19,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 19
-      },
-      {
-        "name": "Sort",
-        "value": "Range"
-      },
-      {
-        "name": "Swords only",
-        "value": false
-      },
-      {
-        "name": "HvH",
-        "value": {
-          "Dura": false,
-          "No Unblock": false,
-          "Ground": false,
-          "Combo Mode": false
-        }
-      },
-      {
-        "name": "Auto Disable",
-        "value": {
-          "On death": false,
-          "On world change": false
-        }
-      },
-      {
-        "name": "Targets",
-        "value": {
-          "Villagers": false,
-          "Animals": false,
-          "Invisibles": false,
-          "Dead": false,
-          "Mobs": false,
-          "Teams": false,
-          "Players": true
-        }
-      },
-      {
-        "name": "Particles",
-        "value": {
-          "Critical": false,
-          "Enchant": false
-        }
-      },
-      {
-        "name": "Mode",
-        "value": "Switch"
-      },
-      {
-        "name": "Switch Delay",
-        "value": 750.0
-      },
-      {
-        "name": "Teams Mode",
-        "value": "Hypixel"
-      },
-      {
-        "name": "Attack",
-        "value": false
-      },
-      {
-        "name": "Attack Mode",
-        "value": "Pre"
-      },
-      {
-        "name": "APS",
-        "value": 11.0
-      },
-      {
-        "name": "CPS Randomization",
-        "value": 0.0
-      },
-      {
-        "name": "Block Mode",
-        "value": "Watchdog"
-      },
-      {
-        "name": "Unblock Mode",
-        "value": "Negative"
-      },
-      {
-        "name": "Autoblock",
-        "value": true
-      },
-      {
-        "name": "Target ESP",
-        "value": true
-      },
-      {
-        "name": "ESP Color",
-        "value": -16187497
-      },
-      {
-        "name": "Rotations",
-        "value": false
-      },
-      {
-        "name": "Smoothing",
-        "value": 1.0
-      },
-      {
-        "name": "Predict",
-        "value": 0.0
-      },
-      {
-        "name": "Randomize",
-        "value": 0.0
-      },
-      {
-        "name": "GCD",
-        "value": true
-      },
-      {
-        "name": "Derp Rotations",
-        "value": false
-      },
-      {
-        "name": "Raycast",
-        "value": false
-      },
-      {
-        "name": "Dynamic",
-        "value": false
-      },
-      {
-        "name": "Reach Bypass",
-        "value": false
-      },
-      {
-        "name": "Strength",
-        "value": 0.0
-      },
-      {
-        "name": "MoveFix Mode",
-        "value": "None"
-      },
-      {
-        "name": "Tp Range",
-        "value": 10.0
-      },
-      {
-        "name": "Block Range",
-        "value": 6.0
-      },
-      {
-        "name": "Max Attack Range",
-        "value": 4.2
-      },
-      {
-        "name": "Min Attack Range",
-        "value": 4.2
-      }
-    ],
-    "name": "KillAura",
-    "toggled": true
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Yaw",
-        "value": 243.0
-      },
-      {
-        "name": "Pitch",
-        "value": 87.0
-      },
-      {
-        "name": "Look at target",
-        "value": false
-      },
-      {
-        "name": "Look at target reversed",
-        "value": false
-      },
-      {
-        "name": "Desync",
-        "value": false
-      },
-      {
-        "name": "Desync Size",
-        "value": 8.0
-      },
-      {
-        "name": "Desync Yaw",
-        "value": 180.0
-      },
-      {
-        "name": "Desync Pitch",
-        "value": 90.0
-      },
-      {
-        "name": "Jitter",
-        "value": 20.0
-      },
-      {
-        "name": "Offset",
-        "value": 2.0
-      },
-      {
-        "name": "Sneak",
-        "value": false
-      },
-      {
-        "name": "Anti Aura",
-        "value": false
-      },
-      {
-        "name": "Antibow",
-        "value": false
-      }
-    ],
-    "name": "AntiAim",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      }
-    ],
-    "name": "AntiBot",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Delay",
-        "value": 150.0
-      },
-      {
-        "name": "Only while not moving",
-        "value": true
-      },
-      {
-        "name": "Inventory only",
-        "value": true
-      }
-    ],
-    "name": "AutoArmor",
-    "toggled": true
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Delay",
-        "value": 750.0
-      },
-      {
-        "name": "Heal HP",
-        "value": 12.0
-      },
-      {
-        "name": "Frog potions",
-        "value": false
-      }
-    ],
-    "name": "AutoPot",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Mini"
-      },
-      {
-        "name": "Watchdog Mode",
-        "value": "Packet"
-      },
-      {
-        "name": "Ticks",
-        "value": 9.0
-      },
-      {
-        "name": "Offset",
-        "value": 19.6
-      },
-      {
-        "name": "HurtTicks",
-        "value": 4.0
-      },
-      {
-        "name": "Extra",
-        "value": {
-          "Always Crit": false,
-          "Safe": false,
-          "Debug": false
-        }
-      }
-    ],
-    "name": "Criticals",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Normal"
-      },
-      {
-        "name": "Event",
-        "value": "Pre"
-      },
-      {
-        "name": "More Packets",
-        "value": false
-      }
-    ],
-    "name": "FastBow",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Normal"
-      },
-      {
-        "name": "Packets",
-        "value": 1.0
-      },
-      {
-        "name": "Delay",
-        "value": 1.0
-      },
-      {
-        "name": "Instant",
-        "value": false
-      }
-    ],
-    "name": "FastUse",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Vanilla"
-      },
-      {
-        "name": "Health",
-        "value": 1.0
-      },
-      {
-        "name": "Packets",
-        "value": 1.0
-      },
-      {
-        "name": "Ignore Ground",
-        "value": false
-      }
-    ],
-    "name": "Regen",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Adaptive",
-        "value": {
-          "Liquids": false,
-          "Controllable": true,
-          "Edges": false
-        }
-      },
-      {
-        "name": "Require space key",
-        "value": true
-      },
-      {
-        "name": "Draw circle",
-        "value": true
-      },
-      {
-        "name": "Radius",
-        "value": 1.5
-      },
-      {
-        "name": "Color",
-        "value": -1376001
-      }
-    ],
-    "name": "TargetStrafe",
-    "toggled": true
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Packet"
-      },
-      {
-        "name": "Horizontal %",
-        "value": 0.0
-      },
-      {
-        "name": "Vertical %",
-        "value": 0.0
-      },
-      {
-        "name": "Push",
-        "value": 3.0
-      },
-      {
-        "name": "Pull",
-        "value": 3.0
-      },
-      {
-        "name": "Stack Cap",
-        "value": 3.0
-      }
-    ],
-    "name": "Velocity",
-    "toggled": true
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Delay",
-        "value": 750.0
-      },
-      {
-        "name": "Health %",
-        "value": 50.0
-      }
-    ],
-    "name": "AutoHead",
-    "toggled": false
-  },
-  {
-    "keyCode": 33,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 33
-      },
-      {
-        "name": "Mode",
-        "value": "Vanilla"
-      },
-      {
-        "name": "Verus Mode",
-        "value": "Collide"
-      },
-      {
-        "name": "Speed",
-        "value": 3.3
-      },
-      {
-        "name": "Boost",
-        "value": 2.0
-      },
-      {
-        "name": "Start Speed",
-        "value": 1.0
-      },
-      {
-        "name": "Damage",
-        "value": true
-      },
-      {
-        "name": "Anti-Kick",
-        "value": false
-      },
-      {
-        "name": "View Bobbing",
-        "value": false
-      }
-    ],
-    "name": "Flight",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Exploit",
-        "value": {
-          "Fireball": true
-        }
-      },
-      {
-        "name": "Mode",
-        "value": "Vanilla"
-      },
-      {
-        "name": "Power",
-        "value": 1.0
-      }
-    ],
-    "name": "HighJump",
-    "toggled": false
-  },
-  {
-    "keyCode": 44,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 44
-      },
-      {
-        "name": "Mode",
-        "value": "Watchdog"
-      },
-      {
-        "name": "Submode",
-        "value": "Damage"
-      },
-      {
-        "name": "Timer Speed",
-        "value": 2.0
-      },
-      {
-        "name": "Spoof Y",
-        "value": false
-      }
-    ],
-    "name": "LongJump",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "NCP"
-      }
-    ],
-    "name": "NoSlow",
-    "toggled": true
-  },
-  {
-    "keyCode": 34,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 34
-      },
-      {
-        "name": "Block Count",
-        "value": "Tenacity"
-      },
-      {
-        "name": "Keep Y",
-        "value": false
-      },
-      {
-        "name": "Sprint",
-        "value": false
-      },
-      {
-        "name": "Mode",
-        "value": "Watchdog"
-      },
-      {
-        "name": "Pitch",
-        "value": 81.0
-      },
-      {
-        "name": "Timer Speed",
-        "value": 1.0
-      },
-      {
-        "name": "Timer Speed (Tower)",
-        "value": 1.0
-      },
-      {
-        "name": "Timer Boost",
-        "value": false
-      },
-      {
-        "name": "Item Switcher",
-        "value": true
-      },
-      {
-        "name": "Item Spoof",
-        "value": true
-      },
-      {
-        "name": "Safewalk",
-        "value": false
-      },
-      {
-        "name": "Tower",
-        "value": true
-      },
-      {
-        "name": "Tower Mode",
-        "value": "Orginal"
-      },
-      {
-        "name": "Swing",
-        "value": false
-      },
-      {
-        "name": "Smoothing",
-        "value": 180.0
-      },
-      {
-        "name": "Randomize",
-        "value": 0.0
-      },
-      {
-        "name": "Yaw Offset",
-        "value": 0.0
-      },
-      {
-        "name": "Optimize",
-        "value": true
-      },
-      {
-        "name": "Sync",
-        "value": false
-      },
-      {
-        "name": "GCD",
-        "value": false
-      }
-    ],
-    "name": "Scaffold",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "NCP",
-        "value": false
-      },
-      {
-        "name": "Movement Fix",
-        "value": false
-      }
-    ],
-    "name": "Sneak",
-    "toggled": false
-  },
-  {
-    "keyCode": 47,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 47
-      },
-      {
-        "name": "Mode",
-        "value": "Watchdog"
-      },
-      {
-        "name": "Submode",
-        "value": "New"
-      },
-      {
-        "name": "Timer Speed",
-        "value": 1.0
-      },
-      {
-        "name": "Boost",
-        "value": 1.3
-      },
-      {
-        "name": "Jump Speed",
-        "value": 1.0
-      },
-      {
-        "name": "Ground Speed",
-        "value": 1.0
-      },
-      {
-        "name": "Air Speed",
-        "value": 1.0
-      },
-      {
-        "name": "Watchdog",
-        "value": false
-      },
-      {
-        "name": "Glide Mode",
-        "value": "Normal"
-      },
-      {
-        "name": "Glide Power",
-        "value": 1.0
-      },
-      {
-        "name": "yPort",
-        "value": false
-      },
-      {
-        "name": "Low Hop",
-        "value": false
-      },
-      {
-        "name": "Friction Mode",
-        "value": "Normal"
-      },
-      {
-        "name": "Vanilla Choke",
-        "value": false
-      },
-      {
-        "name": "Timer",
-        "value": 1.0
-      },
-      {
-        "name": "Timer Mode",
-        "value": "On Ground"
-      },
-      {
-        "name": "Damage Boost",
-        "value": false
-      },
-      {
-        "name": "Flags",
-        "value": true
-      },
-      {
-        "name": "Verus Mode",
-        "value": "Hop"
-      }
-    ],
-    "name": "Speed",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Omni Sprint",
-        "value": false
-      }
-    ],
-    "name": "Sprint",
-    "toggled": true
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Watchdog"
-      },
-      {
-        "name": "Timer",
-        "value": false
-      },
-      {
-        "name": "Timer Speed",
-        "value": 0.3
-      }
-    ],
-    "name": "Step",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Custom Name",
-        "value": ""
-      }
-    ],
-    "name": "NameProtect",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Watchdog"
-      },
-      {
-        "name": "Sync",
-        "value": false
-      },
-      {
-        "name": "Smart Disable",
-        "value": false
-      }
-    ],
-    "name": "AntiVoid",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Delay",
-        "value": 90.0
-      },
-      {
-        "name": "Reverse",
-        "value": false
-      },
-      {
-        "name": "Title Check",
-        "value": true
-      },
-      {
-        "name": "Free Look",
-        "value": false
-      }
-    ],
-    "name": "ChestStealer",
-    "toggled": true
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Delay",
-        "value": 90.0
-      },
-      {
-        "name": "Send inventory packets",
-        "value": false
-      },
-      {
-        "name": "Only while not moving",
-        "value": true
-      },
-      {
-        "name": "Inventory only",
-        "value": true
-      },
-      {
-        "name": "Drop archery",
-        "value": true
-      },
-      {
-        "name": "Move arrows",
-        "value": true
-      },
-      {
-        "name": "Drop food",
-        "value": true
-      },
-      {
-        "name": "Weapon Slot",
-        "value": 1.0
-      },
-      {
-        "name": "Pickaxe Slot",
-        "value": 2.0
-      },
-      {
-        "name": "Axe Slot",
-        "value": 3.0
-      },
-      {
-        "name": "Shovel Slot",
-        "value": 4.0
-      },
-      {
-        "name": "Bow Slot",
-        "value": 5.0
-      },
-      {
-        "name": "Block Slot",
-        "value": 6.0
-      }
-    ],
-    "name": "InvManager",
-    "toggled": true
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      }
-    ],
-    "name": "InvMove",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Edit"
-      },
-      {
-        "name": "Extra",
-        "value": false
-      },
-      {
-        "name": "Disable in Void",
-        "value": false
-      },
-      {
-        "name": "Random Fall Distance",
-        "value": false
-      }
-    ],
-    "name": "NoFall",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Fast"
-      }
-    ],
-    "name": "SpeedMine",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Normal"
-      },
-      {
-        "name": "Exploit Mode",
-        "value": "Random"
-      },
-      {
-        "name": "Balance Trigger",
-        "value": 1.0
-      },
-      {
-        "name": "Amount",
-        "value": 1.0
-      }
-    ],
-    "name": "Timer",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "AutoSword",
-        "value": true
-      }
-    ],
-    "name": "AutoTool",
-    "toggled": true
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      }
-    ],
-    "name": "Killsults",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Client Name",
-        "value": "Bypass Machine"
-      },
-      {
-        "name": "Watermark",
-        "value": "Sigma"
-      },
-      {
-        "name": "Client Font",
-        "value": "Tenacity"
-      },
-      {
-        "name": "Intent Info",
-        "value": "Username"
-      },
-      {
-        "name": "Cape",
-        "value": "None"
-      },
-      {
-        "name": "Color Theme",
-        "value": "Astolfo"
-      },
-      {
-        "name": "Color Blending",
-        "value": "Default"
-      },
-      {
-        "name": "Main Color",
-        "value": -65490
-      },
-      {
-        "name": "Alt Color",
-        "value": -16711696
-      },
-      {
-        "name": "Better Chat",
-        "value": true
-      },
-      {
-        "name": "Clear Chat",
-        "value": false
-      },
-      {
-        "name": "Armor HUD",
-        "value": true
-      },
-      {
-        "name": "Potion Status",
-        "value": true
-      },
-      {
-        "name": "Lowercase HUD",
-        "value": false
-      },
-      {
-        "name": "Info",
-        "value": true
-      },
-      {
-        "name": "Intent API",
-        "value": true
-      },
-      {
-        "name": "Mod Disable Buttons",
-        "value": true
-      },
-      {
-        "name": "Alternate Text Shadow",
-        "value": false
-      },
-      {
-        "name": "Sidebar Numbers",
-        "value": true
-      },
-      {
-        "name": "Sidebar Text Shadow",
-        "value": true
-      }
-    ],
-    "name": "Client",
-    "toggled": false
-  },
-  {
-    "keyCode": 54,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 54
-      },
-      {
-        "name": "Shadow",
-        "value": false
-      },
-      {
-        "name": "Expanded",
-        "value": true
-      },
-      {
-        "name": "Click Animations",
-        "value": true
-      },
-      {
-        "name": "Scroll Mode",
-        "value": "Screen Height"
-      },
-      {
-        "name": "Tab Height",
-        "value": 236.0
-      },
-      {
-        "name": "Color",
-        "value": -7724868
-      },
-      {
-        "name": "Mode",
-        "value": "Dropdown"
-      }
-    ],
-    "name": "ClickGUI",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Color Mode",
-        "value": "Colored"
-      },
-      {
-        "name": "Color",
-        "value": 0.4000000059604645
-      },
-      {
-        "name": "Toggle",
-        "value": true
-      }
-    ],
-    "name": "Notifications",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Sort",
-        "value": "Regular"
-      },
-      {
-        "name": "Border",
-        "value": "Sidebar"
-      },
-      {
-        "name": "Partial Outline",
-        "value": false
-      },
-      {
-        "name": "Hide Render",
-        "value": true
-      },
-      {
-        "name": "Text Shadow",
-        "value": true
-      },
-      {
-        "name": "Background",
-        "value": true
-      },
-      {
-        "name": "Background Alpha",
-        "value": 0.64
-      }
-    ],
-    "name": "ArrayList",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Radius",
-        "value": 9.0
-      },
-      {
-        "name": "Compression",
-        "value": 2.0
-      },
-      {
-        "name": "Blur Shadow",
-        "value": true
-      },
-      {
-        "name": "Shadow Radius",
-        "value": 9.0
-      },
-      {
-        "name": "Item",
-        "value": false
-      },
-      {
-        "name": "Chat",
-        "value": true
-      },
-      {
-        "name": "Chat Effects",
-        "value": true
-      }
-    ],
-    "name": "Blur",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Exhi 2"
-      },
-      {
-        "name": "X",
-        "value": 56.0
-      },
-      {
-        "name": "Y",
-        "value": 37.0
-      },
-      {
-        "name": "Size",
-        "value": 27.0
-      },
-      {
-        "name": "Slow Amount",
-        "value": 1.0
-      },
-      {
-        "name": "Better Swords",
-        "value": false
-      },
-      {
-        "name": "1.7 Red Armor",
-        "value": false
-      }
-    ],
-    "name": "Animations",
-    "toggled": true
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "View Clip",
-        "value": false
-      },
-      {
-        "name": "No Bob",
-        "value": true
-      },
-      {
-        "name": "No Hurtcam",
-        "value": false
-      },
-      {
-        "name": "No Dynamic FOV",
-        "value": false
-      },
-      {
-        "name": "Optifine Zoom",
-        "value": 9.0
-      }
-    ],
-    "name": "Camera",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Line"
-      },
-      {
-        "name": "Particle Amount",
-        "value": 335.0
-      },
-      {
-        "name": "Walls",
-        "value": false
-      },
-      {
-        "name": "Color1",
-        "value": -49677
-      },
-      {
-        "name": "Color2",
-        "value": -5635462
-      }
-    ],
-    "name": "Breadcrumbs",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      }
-    ],
-    "name": "ItemPhysics",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Chams"
-      },
-      {
-        "name": "Textured",
-        "value": false
-      },
-      {
-        "name": "Placed only",
-        "value": false
-      },
-      {
-        "name": "Color",
-        "value": -15728727
-      },
-      {
-        "name": "Walls",
-        "value": -5161841
-      },
-      {
-        "name": "Outline",
-        "value": -1273903
-      }
-    ],
-    "name": "ChestESP",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Color Mode",
-        "value": "Custom Color"
-      },
-      {
-        "name": "Color",
-        "value": -8873268
-      },
-      {
-        "name": "Players",
-        "value": true
-      },
-      {
-        "name": "Items",
-        "value": false
-      },
-      {
-        "name": "Mobs and Animals",
-        "value": false
-      },
-      {
-        "name": "Health Bar",
-        "value": true
-      },
-      {
-        "name": "Health Percentage",
-        "value": false
-      },
-      {
-        "name": "Only On Damage",
-        "value": false
-      },
-      {
-        "name": "Position",
-        "value": "Middle"
-      }
-    ],
-    "name": "BoxESP",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Custom"
-      },
-      {
-        "name": "Speed",
-        "value": 10.0
-      },
-      {
-        "name": "Color",
-        "value": -7359252
-      }
-    ],
-    "name": "Glint",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Color",
-        "value": -65536
-      },
-      {
-        "name": "Full Block",
-        "value": true
-      },
-      {
-        "name": "Alpha",
-        "value": 0.4
-      }
-    ],
-    "name": "Outline",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Tenacity"
-      },
-      {
-        "name": "X",
-        "value": 92.5
-      },
-      {
-        "name": "Y",
-        "value": 46.5
-      }
-    ],
-    "name": "TargetHUD",
-    "toggled": true
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Theme",
-        "value": "Custom Color"
-      },
-      {
-        "name": "Behind Walls",
-        "value": "Opposite"
-      },
-      {
-        "name": "Speed",
-        "value": 15.0
-      },
-      {
-        "name": "Only behind walls",
-        "value": false
-      },
-      {
-        "name": "Color",
-        "value": -15401216
-      }
-    ],
-    "name": "Chams",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Brightness",
-        "value": 10.0
-      }
-    ],
-    "name": "Fullbright",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Spacing",
-        "value": 1.0
-      },
-      {
-        "name": "Color",
-        "value": -1
-      }
-    ],
-    "name": "Keystrokes",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Scale",
-        "value": 0.7
-      },
-      {
-        "name": "Effects",
-        "value": {
-          "Background": true,
-          "Formatting": false,
-          "Health Number": true,
-          "Background Effect": false
-        }
-      },
-      {
-        "name": "Players",
-        "value": true
-      },
-      {
-        "name": "Mobs and Animals",
-        "value": true
-      }
-    ],
-    "name": "NameTags",
-    "toggled": true
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Outline Color",
-        "value": -15461356
-      }
-    ],
-    "name": "OutlineESP",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Scale",
-        "value": 0.5
-      },
-      {
-        "name": "Client ID",
-        "value": ""
-      },
-      {
-        "name": "Gradient Background",
-        "value": true
-      }
-    ],
-    "name": "Spotify",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Color Mode",
-        "value": "Static"
-      },
-      {
-        "name": "Saturation",
-        "value": 0.75
-      },
-      {
-        "name": "Glow Color",
-        "value": -65307
-      },
-      {
-        "name": "Exposure",
-        "value": 2.1
-      },
-      {
-        "name": "Radius",
-        "value": 4.0
-      },
-      {
-        "name": "Players",
-        "value": false
-      },
-      {
-        "name": "Mobs and Animals",
-        "value": true
-      },
-      {
-        "name": "Avoid Entity",
-        "value": false
-      }
-    ],
-    "name": "GlowESP",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      }
-    ],
-    "name": "ConfigGUI",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Show in first person",
-        "value": false
-      }
-    ],
-    "name": "ChinaHat",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Time",
-        "value": 12000.0
-      }
-    ],
-    "name": "Ambience",
-    "toggled": false
-  },
-  {
-    "keyCode": 37,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 37
-      },
-      {
-        "name": "Ores",
-        "value": {
-          "Redstone": true,
-          "Gold": true,
-          "Emerald": true,
-          "Coal": true,
-          "Lapis": true,
-          "Diamond": true,
-          "Iron": true
-        }
-      },
-      {
-        "name": "Opacity",
-        "value": 60.0
-      },
-      {
-        "name": "Anti-xray bypass",
-        "value": false
-      }
-    ],
-    "name": "Xray",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      }
-    ],
-    "name": "SessionStats",
-    "toggled": true
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      }
-    ],
-    "name": "AntiHunger",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Blink"
-      },
-      {
-        "name": "Trigger Amount",
-        "value": 500.0
-      }
-    ],
-    "name": "Blink",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Fly"
-      },
-      {
-        "name": "Amount",
-        "value": 100.0
-      },
-      {
-        "name": "Delay",
-        "value": 1.0
-      }
-    ],
-    "name": "Crasher",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Watchdog"
-      },
-      {
-        "name": "Verus Mode",
-        "value": "Combat"
-      },
-      {
-        "name": "Ghostly Mode",
-        "value": "Combat"
-      },
-      {
-        "name": "Watchdog Mode",
-        "value": "Trolling 2"
-      },
-      {
-        "name": "Show Mode",
-        "value": true
-      }
-    ],
-    "name": "Disabler",
-    "toggled": true
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Watchdog",
-        "value": false
-      }
-    ],
-    "name": "NoRotate",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Watchdog (VClip)"
-      },
-      {
-        "name": "Speed",
-        "value": 1.0
-      },
-      {
-        "name": "Distance",
-        "value": 1.0
-      },
-      {
-        "name": "Vertical",
-        "value": 1.0
-      },
-      {
-        "name": "Horizontal",
-        "value": 1.0
-      }
-    ],
-    "name": "Phase",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Normal"
-      },
-      {
-        "name": "Ping",
-        "value": 100.0
-      },
-      {
-        "name": "Negative Exploit",
-        "value": false
-      },
-      {
-        "name": "Watchdog Exploit",
-        "value": false
-      }
-    ],
-    "name": "PingSpoofer",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Hold"
-      },
-      {
-        "name": "Packets",
-        "value": 1.0
-      }
-    ],
-    "name": "OneShot",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Delay (ms)",
-        "value": 100.0
-      }
-    ],
-    "name": "BackTracking",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      }
-    ],
-    "name": "No03",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Slot",
-        "value": true
-      },
-      {
-        "name": "Health",
-        "value": true
-      },
-      {
-        "name": "Position",
-        "value": true
-      }
-    ],
-    "name": "AntiDesync",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Bucket",
-        "value": false
-      },
-      {
-        "name": "Packet",
-        "value": false
-      }
-    ],
-    "name": "AntiFire",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Spawn"
-      }
-    ],
-    "name": "AntiFreeze",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "Bypass"
-      }
-    ],
-    "name": "ChatFilter",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      },
-      {
-        "name": "Mode",
-        "value": "NCP"
-      },
-      {
-        "name": "Notifications",
-        "value": true
-      }
-    ],
-    "name": "FlagDetector",
-    "toggled": false
-  },
-  {
+    "name": "HackerDetector",
+    "toggled": false,
     "keyCode": 0,
     "settings": [
       {
-        "name": "Keybind",
-        "value": 0
+        "value": 0,
+        "name": "Keybind"
       },
       {
-        "name": "Checks",
         "value": {
           "NoFall A": true,
           "KillAura A": true,
@@ -2132,120 +19,2233 @@
           "Speed A": true,
           "Phase A": true,
           "Speed B": true
-        }
+        },
+        "name": "Checks"
       }
-    ],
-    "name": "HackerDetector",
-    "toggled": false
+    ]
   },
   {
+    "name": "BackTracking",
+    "toggled": false,
     "keyCode": 0,
     "settings": [
       {
-        "name": "Keybind",
-        "value": 0
-      }
-    ],
-    "name": "Obsidian",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
-      }
-    ],
-    "name": "Resolver",
-    "toggled": false
-  },
-  {
-    "keyCode": 0,
-    "settings": [
-      {
-        "name": "Keybind",
-        "value": 0
+        "value": 0,
+        "name": "Keybind"
       },
       {
-        "name": "Interval (s)",
-        "value": 60.0
+        "value": 100.0,
+        "name": "Delay (ms)"
       }
-    ],
+    ]
+  },
+  {
+    "name": "Breadcrumbs",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Rise",
+        "name": "Mode"
+      },
+      {
+        "value": 335.0,
+        "name": "Particle Amount"
+      },
+      {
+        "value": false,
+        "name": "Walls"
+      },
+      {
+        "value": -49677,
+        "name": "Color1"
+      },
+      {
+        "value": -5635462,
+        "name": "Color2"
+      }
+    ]
+  },
+  {
     "name": "StaffAnalyzer",
-    "toggled": true
-  },
-  {
+    "toggled": true,
     "keyCode": 0,
     "settings": [
       {
-        "name": "Keybind",
-        "value": 0
+        "value": 0,
+        "name": "Keybind"
       },
       {
-        "name": "AntiAtlas Settings",
+        "value": 60.0,
+        "name": "Interval (s)"
+      }
+    ]
+  },
+  {
+    "name": "NameProtect",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "",
+        "name": "Custom Name"
+      }
+    ]
+  },
+  {
+    "name": "SessionStats",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      }
+    ]
+  },
+  {
+    "name": "ChestStealer",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": 90.0,
+        "name": "Delay"
+      },
+      {
+        "value": false,
+        "name": "Reverse"
+      },
+      {
+        "value": true,
+        "name": "Title Check"
+      },
+      {
+        "value": false,
+        "name": "Free Look"
+      }
+    ]
+  },
+  {
+    "name": "FlagDetector",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "NCP",
+        "name": "Mode"
+      },
+      {
+        "value": true,
+        "name": "Notifications"
+      }
+    ]
+  },
+  {
+    "name": "Notifications",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Colored",
+        "name": "Color Mode"
+      },
+      {
+        "value": 0.3500000052154064,
+        "name": "Color"
+      },
+      {
+        "value": true,
+        "name": "Toggle"
+      }
+    ]
+  },
+  {
+    "name": "PingSpoofer",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Normal",
+        "name": "Mode"
+      },
+      {
+        "value": 100.0,
+        "name": "Ping"
+      },
+      {
+        "value": false,
+        "name": "Negative Exploit"
+      },
+      {
+        "value": false,
+        "name": "Watchdog Exploit"
+      }
+    ]
+  },
+  {
+    "name": "TargetStrafe",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": {
+          "Liquids": false,
+          "Controllable": true,
+          "Edges": false
+        },
+        "name": "Adaptive"
+      },
+      {
+        "value": true,
+        "name": "Require space key"
+      },
+      {
+        "value": true,
+        "name": "Draw circle"
+      },
+      {
+        "value": 1.5,
+        "name": "Radius"
+      },
+      {
+        "value": -9376956,
+        "name": "Color"
+      }
+    ]
+  },
+  {
+    "name": "ItemPhysics",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      }
+    ]
+  },
+  {
+    "name": "AutoHypixel",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
         "value": {
           "Trigger on kill": false,
           "Trigger on join": true,
           "Suppress report messages": false
-        }
+        },
+        "name": "AntiAtlas Settings"
       },
       {
-        "name": "AutoGG",
-        "value": false
+        "value": false,
+        "name": "AutoGG"
       },
       {
-        "name": "AutoGG Message",
-        "value": "gg"
+        "value": "gg",
+        "name": "AutoGG Message"
       },
       {
-        "name": "AntiAtlas",
-        "value": false
+        "value": false,
+        "name": "AntiAtlas"
       },
       {
-        "name": "AutoPlay",
-        "value": true
+        "value": true,
+        "name": "AutoPlay"
       },
       {
-        "name": "AutoPlay Delay",
-        "value": 2.5
+        "value": 2.5,
+        "name": "AutoPlay Delay"
       },
       {
-        "name": "Auto /hub on ban",
-        "value": true
+        "value": true,
+        "name": "Auto /hub on ban"
       }
-    ],
-    "name": "AutoHypixel",
-    "toggled": true
+    ]
   },
   {
+    "name": "InvManager",
+    "toggled": true,
     "keyCode": 0,
     "settings": [
       {
-        "name": "Keybind",
-        "value": 0
+        "value": 0,
+        "name": "Keybind"
       },
       {
-        "name": "Delay (s)",
-        "value": 0.0
+        "value": 90.0,
+        "name": "Delay"
       },
       {
-        "name": "Password",
-        "value": "towel"
+        "value": false,
+        "name": "Send inventory packets"
+      },
+      {
+        "value": true,
+        "name": "Only while not moving"
+      },
+      {
+        "value": true,
+        "name": "Inventory only"
+      },
+      {
+        "value": true,
+        "name": "Drop archery"
+      },
+      {
+        "value": true,
+        "name": "Move arrows"
+      },
+      {
+        "value": true,
+        "name": "Drop food"
+      },
+      {
+        "value": 1.0,
+        "name": "Weapon Slot"
+      },
+      {
+        "value": 2.0,
+        "name": "Pickaxe Slot"
+      },
+      {
+        "value": 3.0,
+        "name": "Axe Slot"
+      },
+      {
+        "value": 4.0,
+        "name": "Shovel Slot"
+      },
+      {
+        "value": 5.0,
+        "name": "Bow Slot"
+      },
+      {
+        "value": 6.0,
+        "name": "Block Slot"
       }
-    ],
+    ]
+  },
+  {
+    "name": "AntiDesync",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": true,
+        "name": "Slot"
+      },
+      {
+        "value": true,
+        "name": "Health"
+      },
+      {
+        "value": true,
+        "name": "Position"
+      }
+    ]
+  },
+  {
+    "name": "TargetHUD",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Tenacity",
+        "name": "Mode"
+      },
+      {
+        "value": 115.5,
+        "name": "X"
+      },
+      {
+        "value": 72.0,
+        "name": "Y"
+      }
+    ]
+  },
+  {
+    "name": "SpeedMine",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Fast",
+        "name": "Mode"
+      }
+    ]
+  },
+  {
+    "name": "Keystrokes",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": 1.0,
+        "name": "Spacing"
+      },
+      {
+        "value": -1,
+        "name": "Color"
+      }
+    ]
+  },
+  {
+    "name": "OutlineESP",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": -15461356,
+        "name": "Outline Color"
+      }
+    ]
+  },
+  {
+    "name": "Animations",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Alts",
+        "name": "Mode"
+      },
+      {
+        "value": 56.0,
+        "name": "X"
+      },
+      {
+        "value": 37.0,
+        "name": "Y"
+      },
+      {
+        "value": 27.0,
+        "name": "Size"
+      },
+      {
+        "value": 1.0,
+        "name": "Slow Amount"
+      },
+      {
+        "value": false,
+        "name": "Better Swords"
+      },
+      {
+        "value": false,
+        "name": "1.7 Red Armor"
+      }
+    ]
+  },
+  {
+    "name": "AntiHunger",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      }
+    ]
+  },
+  {
+    "name": "NameTags",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": 0.7,
+        "name": "Scale"
+      },
+      {
+        "value": {
+          "Background": true,
+          "Formatting": false,
+          "Health Number": true,
+          "Background Effect": false
+        },
+        "name": "Effects"
+      },
+      {
+        "value": true,
+        "name": "Players"
+      },
+      {
+        "value": true,
+        "name": "Mobs and Animals"
+      }
+    ]
+  },
+  {
+    "name": "AutoArmor",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": 150.0,
+        "name": "Delay"
+      },
+      {
+        "value": true,
+        "name": "Only while not moving"
+      },
+      {
+        "value": true,
+        "name": "Inventory only"
+      }
+    ]
+  },
+  {
+    "name": "LongJump",
+    "toggled": false,
+    "keyCode": 46,
+    "settings": [
+      {
+        "value": 46,
+        "name": "Keybind"
+      },
+      {
+        "value": "Watchdog",
+        "name": "Mode"
+      },
+      {
+        "value": "Damage",
+        "name": "Submode"
+      },
+      {
+        "value": 2.0,
+        "name": "Timer Speed"
+      },
+      {
+        "value": false,
+        "name": "Spoof Y"
+      }
+    ]
+  },
+  {
+    "name": "AntiFreeze",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Spawn",
+        "name": "Mode"
+      }
+    ]
+  },
+  {
+    "name": "ConfigGUI",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      }
+    ]
+  },
+  {
+    "name": "HighJump",
+    "toggled": false,
+    "keyCode": 48,
+    "settings": [
+      {
+        "value": 48,
+        "name": "Keybind"
+      },
+      {
+        "value": {
+          "Fireball": true
+        },
+        "name": "Exploit"
+      },
+      {
+        "value": "Watchdog",
+        "name": "Mode"
+      },
+      {
+        "value": 1.0,
+        "name": "Power"
+      }
+    ]
+  },
+  {
+    "name": "ChestESP",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Outline",
+        "name": "Mode"
+      },
+      {
+        "value": false,
+        "name": "Textured"
+      },
+      {
+        "value": false,
+        "name": "Placed only"
+      },
+      {
+        "value": -15728727,
+        "name": "Color"
+      },
+      {
+        "value": -5161841,
+        "name": "Walls"
+      },
+      {
+        "value": -11084701,
+        "name": "Outline"
+      }
+    ]
+  },
+  {
+    "name": "Ambience",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": 18000.0,
+        "name": "Time"
+      }
+    ]
+  },
+  {
+    "name": "AutoHead",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": 750.0,
+        "name": "Delay"
+      },
+      {
+        "value": 50.0,
+        "name": "Health %"
+      }
+    ]
+  },
+  {
+    "name": "ChatFilter",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Bypass",
+        "name": "Mode"
+      }
+    ]
+  },
+  {
+    "name": "NoRotate",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": false,
+        "name": "Watchdog"
+      }
+    ]
+  },
+  {
+    "name": "ChinaHat",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": false,
+        "name": "Show in first person"
+      }
+    ]
+  },
+  {
+    "name": "GlowESP",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Static",
+        "name": "Color Mode"
+      },
+      {
+        "value": 0.75,
+        "name": "Saturation"
+      },
+      {
+        "value": -11337875,
+        "name": "Glow Color"
+      },
+      {
+        "value": 2.1,
+        "name": "Exposure"
+      },
+      {
+        "value": 4.0,
+        "name": "Radius"
+      },
+      {
+        "value": false,
+        "name": "Players"
+      },
+      {
+        "value": true,
+        "name": "Mobs and Animals"
+      },
+      {
+        "value": false,
+        "name": "Avoid Entity"
+      }
+    ]
+  },
+  {
     "name": "AutoAuth",
-    "toggled": false
-  },
-  {
+    "toggled": false,
     "keyCode": 0,
     "settings": [
       {
-        "name": "Keybind",
-        "value": 0
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": 0.0,
+        "name": "Delay (s)"
+      },
+      {
+        "value": "towel",
+        "name": "Password"
       }
-    ],
+    ]
+  },
+  {
+    "name": "Fullbright",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": 10.0,
+        "name": "Brightness"
+      }
+    ]
+  },
+  {
+    "name": "AutoTool",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": true,
+        "name": "AutoSword"
+      }
+    ]
+  },
+  {
     "name": "AntiFalse",
-    "toggled": false
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      }
+    ]
+  },
+  {
+    "name": "OneShot",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Hold",
+        "name": "Mode"
+      },
+      {
+        "value": 1.0,
+        "name": "Packets"
+      }
+    ]
+  },
+  {
+    "name": "Obsidian",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      }
+    ]
+  },
+  {
+    "name": "ClickGUI",
+    "toggled": false,
+    "keyCode": 54,
+    "settings": [
+      {
+        "value": 54,
+        "name": "Keybind"
+      },
+      {
+        "value": false,
+        "name": "Shadow"
+      },
+      {
+        "value": true,
+        "name": "Expanded"
+      },
+      {
+        "value": true,
+        "name": "Click Animations"
+      },
+      {
+        "value": "Screen Height",
+        "name": "Scroll Mode"
+      },
+      {
+        "value": 236.0,
+        "name": "Tab Height"
+      },
+      {
+        "value": -14239709,
+        "name": "Color"
+      },
+      {
+        "value": "Dropdown",
+        "name": "Mode"
+      }
+    ]
+  },
+  {
+    "name": "ArrayList",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Regular",
+        "name": "Sort"
+      },
+      {
+        "value": "Sidebar",
+        "name": "Border"
+      },
+      {
+        "value": false,
+        "name": "Partial Outline"
+      },
+      {
+        "value": true,
+        "name": "Hide Render"
+      },
+      {
+        "value": true,
+        "name": "Text Shadow"
+      },
+      {
+        "value": true,
+        "name": "Background"
+      },
+      {
+        "value": 0.33,
+        "name": "Background Alpha"
+      }
+    ]
+  },
+  {
+    "name": "FastBow",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Normal",
+        "name": "Mode"
+      },
+      {
+        "value": "Pre",
+        "name": "Event"
+      },
+      {
+        "value": false,
+        "name": "More Packets"
+      }
+    ]
+  },
+  {
+    "name": "Resolver",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      }
+    ]
+  },
+  {
+    "name": "InvMove",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      }
+    ]
+  },
+  {
+    "name": "Scaffold",
+    "toggled": false,
+    "keyCode": 44,
+    "settings": [
+      {
+        "value": 44,
+        "name": "Keybind"
+      },
+      {
+        "value": "Tenacity",
+        "name": "Block Count"
+      },
+      {
+        "value": false,
+        "name": "Keep Y"
+      },
+      {
+        "value": false,
+        "name": "Sprint"
+      },
+      {
+        "value": "Watchdog",
+        "name": "Mode"
+      },
+      {
+        "value": 83.0,
+        "name": "Pitch"
+      },
+      {
+        "value": 1.0,
+        "name": "Timer Speed"
+      },
+      {
+        "value": 1.0,
+        "name": "Timer Speed (Tower)"
+      },
+      {
+        "value": true,
+        "name": "Timer Boost"
+      },
+      {
+        "value": true,
+        "name": "Item Switcher"
+      },
+      {
+        "value": true,
+        "name": "Item Spoof"
+      },
+      {
+        "value": false,
+        "name": "Safewalk"
+      },
+      {
+        "value": true,
+        "name": "Tower"
+      },
+      {
+        "value": "Orginal",
+        "name": "Tower Mode"
+      },
+      {
+        "value": false,
+        "name": "Swing"
+      },
+      {
+        "value": 180.0,
+        "name": "Smoothing"
+      },
+      {
+        "value": 0.0,
+        "name": "Randomize"
+      },
+      {
+        "value": 0.0,
+        "name": "Yaw Offset"
+      },
+      {
+        "value": true,
+        "name": "Optimize"
+      },
+      {
+        "value": false,
+        "name": "Sync"
+      },
+      {
+        "value": false,
+        "name": "GCD"
+      }
+    ]
+  },
+  {
+    "name": "AntiVoid",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Watchdog",
+        "name": "Mode"
+      },
+      {
+        "value": false,
+        "name": "Sync"
+      },
+      {
+        "value": true,
+        "name": "Smart Disable"
+      }
+    ]
+  },
+  {
+    "name": "FastUse",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Normal",
+        "name": "Mode"
+      },
+      {
+        "value": 1.0,
+        "name": "Packets"
+      },
+      {
+        "value": 1.0,
+        "name": "Delay"
+      },
+      {
+        "value": false,
+        "name": "Instant"
+      }
+    ]
+  },
+  {
+    "name": "Disabler",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Watchdog",
+        "name": "Mode"
+      },
+      {
+        "value": "Combat",
+        "name": "Verus Mode"
+      },
+      {
+        "value": "Combat",
+        "name": "Ghostly Mode"
+      },
+      {
+        "value": "Trolling 2",
+        "name": "Watchdog Mode"
+      },
+      {
+        "value": true,
+        "name": "Show Mode"
+      }
+    ]
+  },
+  {
+    "name": "AutoPot",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": 750.0,
+        "name": "Delay"
+      },
+      {
+        "value": 12.0,
+        "name": "Heal HP"
+      },
+      {
+        "value": false,
+        "name": "Frog potions"
+      }
+    ]
+  },
+  {
+    "name": "Velocity",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Packet",
+        "name": "Mode"
+      },
+      {
+        "value": 0.0,
+        "name": "Horizontal %"
+      },
+      {
+        "value": 0.0,
+        "name": "Vertical %"
+      },
+      {
+        "value": 3.0,
+        "name": "Push"
+      },
+      {
+        "value": 3.0,
+        "name": "Pull"
+      },
+      {
+        "value": 3.0,
+        "name": "Stack Cap"
+      }
+    ]
+  },
+  {
+    "name": "Criticals",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Mini",
+        "name": "Mode"
+      },
+      {
+        "value": "Packet",
+        "name": "Watchdog Mode"
+      },
+      {
+        "value": 9.0,
+        "name": "Ticks"
+      },
+      {
+        "value": 19.6,
+        "name": "Offset"
+      },
+      {
+        "value": 4.0,
+        "name": "HurtTicks"
+      },
+      {
+        "value": {
+          "Always Crit": false,
+          "Safe": false,
+          "Debug": false
+        },
+        "name": "Extra"
+      }
+    ]
+  },
+  {
+    "name": "BoxESP",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Custom Color",
+        "name": "Color Mode"
+      },
+      {
+        "value": -8873268,
+        "name": "Color"
+      },
+      {
+        "value": true,
+        "name": "Players"
+      },
+      {
+        "value": false,
+        "name": "Items"
+      },
+      {
+        "value": false,
+        "name": "Mobs and Animals"
+      },
+      {
+        "value": true,
+        "name": "Health Bar"
+      },
+      {
+        "value": false,
+        "name": "Health Percentage"
+      },
+      {
+        "value": false,
+        "name": "Only On Damage"
+      },
+      {
+        "value": "Middle",
+        "name": "Position"
+      }
+    ]
+  },
+  {
+    "name": "NoSlow",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "NCP",
+        "name": "Mode"
+      }
+    ]
+  },
+  {
+    "name": "Camera",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": true,
+        "name": "View Clip"
+      },
+      {
+        "value": true,
+        "name": "No Bob"
+      },
+      {
+        "value": false,
+        "name": "No Hurtcam"
+      },
+      {
+        "value": false,
+        "name": "No Dynamic FOV"
+      },
+      {
+        "value": 9.0,
+        "name": "Optifine Zoom"
+      }
+    ]
+  },
+  {
+    "name": "Crasher",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Fly",
+        "name": "Mode"
+      },
+      {
+        "value": 100.0,
+        "name": "Amount"
+      },
+      {
+        "value": 1.0,
+        "name": "Delay"
+      }
+    ]
+  },
+  {
+    "name": "AntiAim",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": 243.0,
+        "name": "Yaw"
+      },
+      {
+        "value": 87.0,
+        "name": "Pitch"
+      },
+      {
+        "value": false,
+        "name": "Look at target"
+      },
+      {
+        "value": false,
+        "name": "Look at target reversed"
+      },
+      {
+        "value": false,
+        "name": "Desync"
+      },
+      {
+        "value": 8.0,
+        "name": "Desync Size"
+      },
+      {
+        "value": 180.0,
+        "name": "Desync Yaw"
+      },
+      {
+        "value": 90.0,
+        "name": "Desync Pitch"
+      },
+      {
+        "value": 20.0,
+        "name": "Jitter"
+      },
+      {
+        "value": 2.0,
+        "name": "Offset"
+      },
+      {
+        "value": false,
+        "name": "Sneak"
+      },
+      {
+        "value": false,
+        "name": "Anti Aura"
+      },
+      {
+        "value": false,
+        "name": "Antibow"
+      }
+    ]
+  },
+  {
+    "name": "Killsults",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      }
+    ]
+  },
+  {
+    "name": "KillAura",
+    "toggled": false,
+    "keyCode": 19,
+    "settings": [
+      {
+        "value": 19,
+        "name": "Keybind"
+      },
+      {
+        "value": "Range",
+        "name": "Sort"
+      },
+      {
+        "value": false,
+        "name": "Swords only"
+      },
+      {
+        "value": {
+          "Dura": false,
+          "No Unblock": false,
+          "Ground": false,
+          "Combo Mode": false
+        },
+        "name": "HvH"
+      },
+      {
+        "value": {
+          "On death": false,
+          "On world change": false
+        },
+        "name": "Auto Disable"
+      },
+      {
+        "value": {
+          "Villagers": false,
+          "Animals": false,
+          "Invisibles": false,
+          "Dead": false,
+          "Mobs": false,
+          "Teams": true,
+          "Players": true
+        },
+        "name": "Targets"
+      },
+      {
+        "value": {
+          "Critical": false,
+          "Enchant": false
+        },
+        "name": "Particles"
+      },
+      {
+        "value": "Switch",
+        "name": "Mode"
+      },
+      {
+        "value": 750.0,
+        "name": "Switch Delay"
+      },
+      {
+        "value": "Hypixel",
+        "name": "Teams Mode"
+      },
+      {
+        "value": false,
+        "name": "Attack"
+      },
+      {
+        "value": "Pre",
+        "name": "Attack Mode"
+      },
+      {
+        "value": 11.0,
+        "name": "APS"
+      },
+      {
+        "value": 0.0,
+        "name": "CPS Randomization"
+      },
+      {
+        "value": "Watchdog",
+        "name": "Block Mode"
+      },
+      {
+        "value": "Origin",
+        "name": "Unblock Mode"
+      },
+      {
+        "value": true,
+        "name": "Autoblock"
+      },
+      {
+        "value": true,
+        "name": "Target ESP"
+      },
+      {
+        "value": -16187497,
+        "name": "ESP Color"
+      },
+      {
+        "value": false,
+        "name": "Rotations"
+      },
+      {
+        "value": 1.0,
+        "name": "Smoothing"
+      },
+      {
+        "value": 0.0,
+        "name": "Predict"
+      },
+      {
+        "value": 0.0,
+        "name": "Randomize"
+      },
+      {
+        "value": true,
+        "name": "GCD"
+      },
+      {
+        "value": false,
+        "name": "Derp Rotations"
+      },
+      {
+        "value": false,
+        "name": "Raycast"
+      },
+      {
+        "value": false,
+        "name": "Dynamic"
+      },
+      {
+        "value": false,
+        "name": "Reach Bypass"
+      },
+      {
+        "value": 0.0,
+        "name": "Strength"
+      },
+      {
+        "value": "None",
+        "name": "MoveFix Mode"
+      },
+      {
+        "value": 10.0,
+        "name": "Tp Range"
+      },
+      {
+        "value": 6.0,
+        "name": "Block Range"
+      },
+      {
+        "value": 4.2,
+        "name": "Max Attack Range"
+      },
+      {
+        "value": 4.2,
+        "name": "Min Attack Range"
+      }
+    ]
+  },
+  {
+    "name": "AntiFire",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": false,
+        "name": "Bucket"
+      },
+      {
+        "value": false,
+        "name": "Packet"
+      }
+    ]
+  },
+  {
+    "name": "AntiBot",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      }
+    ]
+  },
+  {
+    "name": "Chams",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Custom Color",
+        "name": "Theme"
+      },
+      {
+        "value": "Opposite",
+        "name": "Behind Walls"
+      },
+      {
+        "value": 15.0,
+        "name": "Speed"
+      },
+      {
+        "value": false,
+        "name": "Only behind walls"
+      },
+      {
+        "value": -15401216,
+        "name": "Color"
+      }
+    ]
+  },
+  {
+    "name": "Spotify",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": 0.5,
+        "name": "Scale"
+      },
+      {
+        "value": "",
+        "name": "Client ID"
+      },
+      {
+        "value": true,
+        "name": "Gradient Background"
+      }
+    ]
+  },
+  {
+    "name": "Outline",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": -65536,
+        "name": "Color"
+      },
+      {
+        "value": true,
+        "name": "Full Block"
+      },
+      {
+        "value": 0.4,
+        "name": "Alpha"
+      }
+    ]
+  },
+  {
+    "name": "Speed",
+    "toggled": false,
+    "keyCode": 45,
+    "settings": [
+      {
+        "value": 45,
+        "name": "Keybind"
+      },
+      {
+        "value": "Watchdog",
+        "name": "Mode"
+      },
+      {
+        "value": "New",
+        "name": "Submode"
+      },
+      {
+        "value": 1.0,
+        "name": "Timer Speed"
+      },
+      {
+        "value": 1.3,
+        "name": "Boost"
+      },
+      {
+        "value": 1.0,
+        "name": "Jump Speed"
+      },
+      {
+        "value": 1.0,
+        "name": "Ground Speed"
+      },
+      {
+        "value": 1.0,
+        "name": "Air Speed"
+      },
+      {
+        "value": false,
+        "name": "Watchdog"
+      },
+      {
+        "value": "Normal",
+        "name": "Glide Mode"
+      },
+      {
+        "value": 1.0,
+        "name": "Glide Power"
+      },
+      {
+        "value": false,
+        "name": "yPort"
+      },
+      {
+        "value": false,
+        "name": "Low Hop"
+      },
+      {
+        "value": "Normal",
+        "name": "Friction Mode"
+      },
+      {
+        "value": false,
+        "name": "Vanilla Choke"
+      },
+      {
+        "value": 1.0,
+        "name": "Timer"
+      },
+      {
+        "value": "On Ground",
+        "name": "Timer Mode"
+      },
+      {
+        "value": false,
+        "name": "Damage Boost"
+      },
+      {
+        "value": true,
+        "name": "Flags"
+      },
+      {
+        "value": "Hop",
+        "name": "Verus Mode"
+      }
+    ]
+  },
+  {
+    "name": "Regen",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Vanilla",
+        "name": "Mode"
+      },
+      {
+        "value": 1.0,
+        "name": "Health"
+      },
+      {
+        "value": 1.0,
+        "name": "Packets"
+      },
+      {
+        "value": false,
+        "name": "Ignore Ground"
+      }
+    ]
+  },
+  {
+    "name": "NoFall",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Watchdog",
+        "name": "Mode"
+      },
+      {
+        "value": false,
+        "name": "Extra"
+      },
+      {
+        "value": true,
+        "name": "Disable in Void"
+      },
+      {
+        "value": false,
+        "name": "Random Fall Distance"
+      }
+    ]
+  },
+  {
+    "name": "Sneak",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": false,
+        "name": "NCP"
+      },
+      {
+        "value": false,
+        "name": "Movement Fix"
+      }
+    ]
+  },
+  {
+    "name": "Phase",
+    "toggled": true,
+    "keyCode": 34,
+    "settings": [
+      {
+        "value": 34,
+        "name": "Keybind"
+      },
+      {
+        "value": "Watchdog (VClip)",
+        "name": "Mode"
+      },
+      {
+        "value": 1.0,
+        "name": "Speed"
+      },
+      {
+        "value": 1.0,
+        "name": "Distance"
+      },
+      {
+        "value": 1.0,
+        "name": "Vertical"
+      },
+      {
+        "value": 1.0,
+        "name": "Horizontal"
+      }
+    ]
+  },
+  {
+    "name": "Sprint",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": false,
+        "name": "Omni Sprint"
+      }
+    ]
+  },
+  {
+    "name": "No03",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      }
+    ]
+  },
+  {
+    "name": "Client",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "T.E.N.A.C.I.T.Y",
+        "name": "Client Name"
+      },
+      {
+        "value": "Tenasense",
+        "name": "Watermark"
+      },
+      {
+        "value": "Tenacity",
+        "name": "Client Font"
+      },
+      {
+        "value": "Username",
+        "name": "Intent Info"
+      },
+      {
+        "value": "None",
+        "name": "Cape"
+      },
+      {
+        "value": "Static",
+        "name": "Color Theme"
+      },
+      {
+        "value": "Default",
+        "name": "Color Blending"
+      },
+      {
+        "value": -12598231,
+        "name": "Main Color"
+      },
+      {
+        "value": -16711696,
+        "name": "Alt Color"
+      },
+      {
+        "value": true,
+        "name": "Better Chat"
+      },
+      {
+        "value": false,
+        "name": "Clear Chat"
+      },
+      {
+        "value": true,
+        "name": "Armor HUD"
+      },
+      {
+        "value": true,
+        "name": "Potion Status"
+      },
+      {
+        "value": false,
+        "name": "Lowercase HUD"
+      },
+      {
+        "value": true,
+        "name": "Info"
+      },
+      {
+        "value": true,
+        "name": "Intent API"
+      },
+      {
+        "value": true,
+        "name": "Mod Disable Buttons"
+      },
+      {
+        "value": false,
+        "name": "Alternate Text Shadow"
+      },
+      {
+        "value": true,
+        "name": "Sidebar Numbers"
+      },
+      {
+        "value": true,
+        "name": "Sidebar Text Shadow"
+      }
+    ]
+  },
+  {
+    "name": "Timer",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Normal",
+        "name": "Mode"
+      },
+      {
+        "value": "Random",
+        "name": "Exploit Mode"
+      },
+      {
+        "value": 1.0,
+        "name": "Balance Trigger"
+      },
+      {
+        "value": 1.0,
+        "name": "Amount"
+      }
+    ]
+  },
+  {
+    "name": "Flight",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Vanilla",
+        "name": "Mode"
+      },
+      {
+        "value": "Collide",
+        "name": "Verus Mode"
+      },
+      {
+        "value": 3.3,
+        "name": "Speed"
+      },
+      {
+        "value": 2.0,
+        "name": "Boost"
+      },
+      {
+        "value": 1.0,
+        "name": "Start Speed"
+      },
+      {
+        "value": true,
+        "name": "Damage"
+      },
+      {
+        "value": false,
+        "name": "Anti-Kick"
+      },
+      {
+        "value": false,
+        "name": "View Bobbing"
+      }
+    ]
+  },
+  {
+    "name": "Blink",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Blink",
+        "name": "Mode"
+      },
+      {
+        "value": 500.0,
+        "name": "Trigger Amount"
+      }
+    ]
+  },
+  {
+    "name": "Step",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Watchdog",
+        "name": "Mode"
+      },
+      {
+        "value": false,
+        "name": "Timer"
+      },
+      {
+        "value": 0.3,
+        "name": "Timer Speed"
+      }
+    ]
+  },
+  {
+    "name": "Xray",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": {
+          "Redstone": true,
+          "Gold": true,
+          "Emerald": true,
+          "Coal": true,
+          "Lapis": true,
+          "Diamond": true,
+          "Iron": true
+        },
+        "name": "Ores"
+      },
+      {
+        "value": 60.0,
+        "name": "Opacity"
+      },
+      {
+        "value": false,
+        "name": "Anti-xray bypass"
+      }
+    ]
+  },
+  {
+    "name": "Glint",
+    "toggled": true,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": "Custom",
+        "name": "Mode"
+      },
+      {
+        "value": 10.0,
+        "name": "Speed"
+      },
+      {
+        "value": -10953651,
+        "name": "Color"
+      }
+    ]
+  },
+  {
+    "name": "Blur",
+    "toggled": false,
+    "keyCode": 0,
+    "settings": [
+      {
+        "value": 0,
+        "name": "Keybind"
+      },
+      {
+        "value": 23.0,
+        "name": "Radius"
+      },
+      {
+        "value": 1.0,
+        "name": "Compression"
+      },
+      {
+        "value": false,
+        "name": "Blur Shadow"
+      },
+      {
+        "value": 9.0,
+        "name": "Shadow Radius"
+      },
+      {
+        "value": false,
+        "name": "Item"
+      },
+      {
+        "value": true,
+        "name": "Chat"
+      },
+      {
+        "value": true,
+        "name": "Chat Effects"
+      }
+    ]
   }
 ]
