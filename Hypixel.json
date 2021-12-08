@@ -252,7 +252,7 @@
       },
       {
         "name": "Inventory only",
-        "value": false
+        "value": true
       }
     ],
     "name": "AutoArmor",
@@ -980,7 +980,7 @@
       },
       {
         "name": "Inventory only",
-        "value": false
+        "value": true
       },
       {
         "name": "Drop archery",
