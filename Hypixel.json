@@ -1,10 +1,10 @@
 [
   {
-    "keyCode": 33,
+    "keyCode": 19,
     "settings": [
       {
         "name": "Keybind",
-        "value": 33
+        "value": 19
       },
       {
         "name": "Sort",
@@ -71,11 +71,11 @@
       },
       {
         "name": "APS",
-        "value": 11.0
+        "value": 12.0
       },
       {
-        "name": "CPS Randomization",
-        "value": 0.0
+        "name": "CPS Randomize",
+        "value": 1.0
       },
       {
         "name": "Block Mode",
@@ -159,7 +159,7 @@
       }
     ],
     "name": "KillAura",
-    "toggled": false
+    "toggled": true
   },
   {
     "keyCode": 0,
@@ -271,7 +271,7 @@
       },
       {
         "name": "Heal HP",
-        "value": 16.0
+        "value": 17.5
       },
       {
         "name": "Frog potions",
@@ -409,7 +409,7 @@
         "value": {
           "Liquids": false,
           "Controllable": true,
-          "Behind": true,
+          "Behind": false,
           "Edges": true
         }
       },
@@ -571,15 +571,15 @@
     "toggled": false
   },
   {
-    "keyCode": 34,
+    "keyCode": 0,
     "settings": [
       {
         "name": "Keybind",
-        "value": 34
+        "value": 0
       },
       {
         "name": "Mode",
-        "value": "Watchdog"
+        "value": "Vanilla"
       },
       {
         "name": "Watchdog Mode",
@@ -591,7 +591,7 @@
       },
       {
         "name": "Speed",
-        "value": 1.0
+        "value": 4.0
       },
       {
         "name": "Boost",
@@ -611,7 +611,7 @@
       },
       {
         "name": "View Bobbing",
-        "value": false
+        "value": true
       }
     ],
     "name": "Flight",
@@ -655,7 +655,7 @@
       },
       {
         "name": "Submode",
-        "value": "Boost"
+        "value": "Bow"
       },
       {
         "name": "Timer Speed",
@@ -685,11 +685,11 @@
     "toggled": true
   },
   {
-    "keyCode": 48,
+    "keyCode": 34,
     "settings": [
       {
         "name": "Keybind",
-        "value": 48
+        "value": 34
       },
       {
         "name": "Mode",
@@ -697,7 +697,7 @@
       },
       {
         "name": "Block Count",
-        "value": "Polar"
+        "value": "Tenacity"
       },
       {
         "name": "Timer Speed",
@@ -721,11 +721,11 @@
       },
       {
         "name": "Safewalk",
-        "value": true
+        "value": false
       },
       {
         "name": "Tower",
-        "value": true
+        "value": false
       },
       {
         "name": "Swing",
@@ -865,7 +865,7 @@
       }
     ],
     "name": "Step",
-    "toggled": true
+    "toggled": false
   },
   {
     "keyCode": 0,
@@ -941,7 +941,7 @@
       },
       {
         "name": "Delay",
-        "value": 60.0
+        "value": 50.0
       },
       {
         "name": "Reverse",
@@ -968,7 +968,7 @@
       },
       {
         "name": "Delay",
-        "value": 100.0
+        "value": 90.0
       },
       {
         "name": "Send inventory packets",
@@ -1177,7 +1177,7 @@
       },
       {
         "name": "Better Chat",
-        "value": false
+        "value": true
       },
       {
         "name": "Clear Chat",
@@ -1243,6 +1243,14 @@
         "value": true
       },
       {
+        "name": "Accented",
+        "value": true
+      },
+      {
+        "name": "Slider Circles",
+        "value": true
+      },
+      {
         "name": "Scroll Mode",
         "value": "Screen Height"
       },
@@ -1256,7 +1264,7 @@
       },
       {
         "name": "Mode",
-        "value": "Dropdown"
+        "value": "Material"
       }
     ],
     "name": "ClickGUI",
@@ -1302,11 +1310,11 @@
       },
       {
         "name": "Border",
-        "value": "Outline"
+        "value": "Nothing"
       },
       {
         "name": "Partial Outline",
-        "value": true
+        "value": false
       },
       {
         "name": "Hide Render",
@@ -1337,7 +1345,7 @@
       },
       {
         "name": "Blur Mode",
-        "value": "Orginal"
+        "value": "Strong"
       },
       {
         "name": "Radius",
@@ -1345,7 +1353,7 @@
       },
       {
         "name": "Compression",
-        "value": 1.0
+        "value": 2.0
       },
       {
         "name": "Blur Shadow",
@@ -1365,7 +1373,7 @@
       },
       {
         "name": "Chat",
-        "value": false
+        "value": true
       },
       {
         "name": "Chat Effects",
@@ -1384,7 +1392,7 @@
       },
       {
         "name": "Mode",
-        "value": "Stella"
+        "value": "Remix"
       },
       {
         "name": "X",
@@ -1400,7 +1408,7 @@
       },
       {
         "name": "Slow Amount",
-        "value": 2.0
+        "value": 1.0
       },
       {
         "name": "Better Swords",
@@ -1474,7 +1482,7 @@
       }
     ],
     "name": "Breadcrumbs",
-    "toggled": true
+    "toggled": false
   },
   {
     "keyCode": 0,
@@ -1567,7 +1575,7 @@
       }
     ],
     "name": "BoxESP",
-    "toggled": true
+    "toggled": false
   },
   {
     "keyCode": 0,
@@ -1624,15 +1632,15 @@
       },
       {
         "name": "Mode",
-        "value": "Rise"
+        "value": "Tenacity"
       },
       {
         "name": "X",
-        "value": 83.5
+        "value": 81.0
       },
       {
         "name": "Y",
-        "value": 66.0
+        "value": 67.0
       }
     ],
     "name": "TargetHUD",
@@ -1748,7 +1756,7 @@
       }
     ],
     "name": "OutlineESP",
-    "toggled": true
+    "toggled": false
   },
   {
     "keyCode": 0,
@@ -1782,7 +1790,7 @@
       },
       {
         "name": "Color Mode",
-        "value": "Rainbow"
+        "value": "Static"
       },
       {
         "name": "Saturation",
@@ -1790,11 +1798,11 @@
       },
       {
         "name": "Glow Color",
-        "value": -11337875
+        "value": -16727052
       },
       {
         "name": "Exposure",
-        "value": 2.1
+        "value": 2.2
       },
       {
         "name": "Radius",
@@ -1810,11 +1818,11 @@
       },
       {
         "name": "Avoid Entity",
-        "value": false
+        "value": true
       }
     ],
     "name": "GlowESP",
-    "toggled": false
+    "toggled": true
   },
   {
     "keyCode": 0,
@@ -1858,11 +1866,11 @@
     "toggled": true
   },
   {
-    "keyCode": 37,
+    "keyCode": 0,
     "settings": [
       {
         "name": "Keybind",
-        "value": 37
+        "value": 0
       },
       {
         "name": "Ores",

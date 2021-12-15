@@ -1,32 +1,54 @@
-﻿[
-  { "changeType": "NEW", "changeDescription": "Christmas theme!" },
-  { "changeType": "NEW", "changeDescription": "Lunar, Ghostly, & MMC Semi disabler" },
-  { "changeType": "FIX", "changeDescription": "Fixed Disabler crashes" },
-  { "changeType": "FIX", "changeDescription": "Fixed choppy rotations" },
-  { "changeType": "NEW", "changeDescription": "Added Behind TargetStrafe" },
-  { "changeType": "FIX", "changeDescription": "Fixed TargetStrafe edges" },
-  { "changeType": "FIX", "changeDescription": "Fixed server IP on disconnect screen" },
-  { "changeType": "UPDATE", "changeDescription": "Improved Scaffold block count display" },
-  { "changeType": "NEW", "changeDescription": "Added Watchdog \"Teleport\" fly" },
-  { "changeType": "NEW", "changeDescription": "Added ViaVersion" },
-  { "changeType": "NEW", "changeDescription": "Strong blur mode" },
-  { "changeType": "NEW", "changeDescription": "Alt Manager button on the disconnect screen" },
-  { "changeType": "NEW", "changeDescription": "Added \"Random Cracked\" button in alt manager" },
-  { "changeType": "NEW", "changeDescription": "Added packetless and bounding box Phase" },
-  { "changeType": "UPDATE", "changeDescription": "Recoded Watchdog bow LongJump" },
-  { "changeType": "NEW", "changeDescription": "Added NCP LongJump" },
-  { "changeType": "FIX", "changeDescription": "Fixed Verus NoFall" },
-  { "changeType": "FIX", "changeDescription": "Fixed Step bugs" },
-  { "changeType": "FIX", "changeDescription": "Fixed collide fly" },
-  { "changeType": "UPDATE", "changeDescription": "Made BlocksMC disabler silent" },
-  { "changeType": "FIX", "changeDescription": "Fixed Watchdog autoblock/noslow" },
-  { "changeType": "NEW", "changeDescription": "Added Microsoft login" },
-  { "changeType": "UPDATE", "changeDescription": "Improved Scaffold keep y" },
-  { "changeType": "DELETE", "changeDescription": "Removed Cedo ClickGUI" },
-  { "changeType": "FIX", "changeDescription": "Fixed Scaffold rotations/tower" },
-  { "changeType": "UPDATE", "changeDescription": "Improved rounded rectangles" },
-  { "changeType": "NEW", "changeDescription": "Added Rise TargetHUD" },
-  { "changeType": "UPDATE", "changeDescription": "Made dropdown ClickGUI sorted alphabetically" },
-  { "changeType": "UPDATE", "changeDescription": "Config validation (should fix some crashes)" },
-  { "changeType": "NEW", "changeDescription": "Added Reach, Autoclicker, Block Reach, Client Spoofer, Paralyze" }
+[
+  {
+    "changeType": "NEW",
+    "changeDescription": "New ClickGUI (Material)"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed player getName()"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed jittery TargetHUD text"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed Scaffold rotations"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added \"Low New\" Watchdog Speed"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Improved Autoblock"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed random cracked crashes (hopefully)"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed strafe bypass"
+  },
+  {
+    "changeType": "NEW",
+    "changeDescription": "Added Moon TargetHud"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Added 1.9 Combat features"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Improved Dropdown ClickGui animation"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed RCE that affected all clients (Log4j)"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Improved NoSlow"
+  }
 ]
