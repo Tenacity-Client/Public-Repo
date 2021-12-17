@@ -1,54 +1,42 @@
 [
   {
     "changeType": "NEW",
-    "changeDescription": "New ClickGUI (Material)"
+    "changeDescription": "Added Auto Third setting to targetstrafe"
+  },
+  {
+    "changeType": "UPDATE",
+    "changeDescription": "Updated Tenacity targethud and moon targethud"
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fixed player getName()"
+    "changeDescription": "Hopefully fixed random crashing"
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fixed jittery TargetHUD text"
+    "changeDescription": "Fixed RCE again (Log4J is a bastard)"
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fixed Scaffold rotations"
+    "changeDescription": "Fixed Random cracked alt crashing"
+  },
+  {
+    "changeType": "FIX",
+    "changeDescription": "Fixed motion event in scripting"
   },
   {
     "changeType": "NEW",
-    "changeDescription": "Added \"Low New\" Watchdog Speed"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Improved Autoblock"
+    "changeDescription": "Added Move event to scripting api"
   },
   {
     "changeType": "FIX",
-    "changeDescription": "Fixed random cracked crashes (hopefully)"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Fixed strafe bypass"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added Moon TargetHud"
+    "changeDescription": "fixed chat blur ignoring scale setting"
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "Added 1.9 Combat features"
+    "changeDescription": "improved teleport fly"
   },
   {
     "changeType": "UPDATE",
-    "changeDescription": "Improved Dropdown ClickGui animation"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Fixed RCE that affected all clients (Log4j)"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Improved NoSlow"
+    "changeDescription": "Updated Watchdog Nofall"
   }
 ]
