@@ -1,42 +1,38 @@
 [
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added Auto Third setting to targetstrafe"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Updated Tenacity targethud and moon targethud"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Hopefully fixed random crashing"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Fixed RCE again (Log4J is a bastard)"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Fixed Random cracked alt crashing"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "Fixed motion event in scripting"
-  },
-  {
-    "changeType": "NEW",
-    "changeDescription": "Added Move event to scripting api"
-  },
-  {
-    "changeType": "FIX",
-    "changeDescription": "fixed chat blur ignoring scale setting"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "improved teleport fly"
-  },
-  {
-    "changeType": "UPDATE",
-    "changeDescription": "Updated Watchdog Nofall"
-  }
+    {
+        "changeType": "NEW",
+        "changeDescription": "Hypixel Timer Disabler"
+    },
+    {
+        "changeType": "NEW",
+        "changeDescription": "Cloud Configs"
+    },
+    {
+        "changeType": "NEW",
+        "changeDescription": "New Config Gui"
+    },
+    {
+        "changeType": "FIX",
+        "changeDescription": "Fix Aura for Hypixel"
+    },
+    {
+        "changeType": "UPDATE",
+        "changeDescription": "Walk in clickgui"
+    },
+    {
+        "changeType": "UPDATE",
+        "changeDescription": "Chest stealer free-look sens"
+    },
+    {
+        "changeType": "UPDATE",
+        "changeDescription": "Added a lot of Blur and Shadow options"
+    },
+    {
+        "changeType": "UPDATE",
+        "changeDescription": "Improved Blur and Shadow performance"
+    },
+    {
+        "changeType": "UPDATE",
+        "changeDescription": "Hold Tab to show binds in clickgui"
+    }
 ]
