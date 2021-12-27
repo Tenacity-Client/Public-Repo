@@ -1,38 +1,30 @@
 [
     {
-        "changeType": "NEW",
-        "changeDescription": "Hypixel Timer Disabler"
+        "changeType": "FIX",
+        "changeDescription": "Fixed timer disabler"
     },
     {
         "changeType": "NEW",
-        "changeDescription": "Cloud Configs"
+        "changeDescription": "Verus autoblock"
     },
     {
         "changeType": "NEW",
-        "changeDescription": "New Config Gui"
+        "changeDescription": "Verus Fly (Slow 2)"
     },
     {
         "changeType": "FIX",
-        "changeDescription": "Fix Aura for Hypixel"
+        "changeDescription": "Fixed autoblock issues"
     },
     {
-        "changeType": "UPDATE",
-        "changeDescription": "Walk in clickgui"
+        "changeType": "FIX",
+        "changeDescription": "Fixed Main Menu shadow problems"
     },
     {
-        "changeType": "UPDATE",
-        "changeDescription": "Chest stealer free-look sens"
+        "changeType": "FIX",
+        "changeDescription": "Fixed configs changing keybinds"
     },
     {
-        "changeType": "UPDATE",
-        "changeDescription": "Added a lot of Blur and Shadow options"
-    },
-    {
-        "changeType": "UPDATE",
-        "changeDescription": "Improved Blur and Shadow performance"
-    },
-    {
-        "changeType": "UPDATE",
-        "changeDescription": "Hold Tab to show binds in clickgui"
+        "changeType": "FIX",
+        "changeDescription": "Fixed scaffold rotations"
     }
 ]
