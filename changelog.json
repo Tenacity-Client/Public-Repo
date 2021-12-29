@@ -1,30 +1,42 @@
 [
     {
+        "changeType": "UPDATE",
+        "changeDescription": "Improve the way online configs are handled"
+    },
+    {
         "changeType": "FIX",
-        "changeDescription": "Fixed timer disabler"
+        "changeDescription": "Fixed Microsoft authentication"
+    },
+    {
+        "changeType": "FIX",
+        "changeDescription": "Fixed scaffold for BlocksMC"
+    },
+    {
+        "changeType": "DELETE",
+        "changeDescription": "Removed Christmas theme"
+    },
+    {
+        "changeType": "DELETE",
+        "changeDescription": "Removed StaffAnalyzer module"
+    },
+    {
+        "changeType": "UPDATE",
+        "changeDescription": "Improved Autoblock"
+    },
+    {
+        "changeType": "UPDATE",
+        "changeDescription": "Improved Scaffold rotations"
+    },
+    {
+        "changeType": "FIX",
+        "changeDescription": "Fixed Verus Bhop"
     },
     {
         "changeType": "NEW",
-        "changeDescription": "Verus autoblock"
+        "changeDescription": "Reload button to Config Gui"
     },
     {
-        "changeType": "NEW",
-        "changeDescription": "Verus Fly (Slow 2)"
-    },
-    {
-        "changeType": "FIX",
-        "changeDescription": "Fixed autoblock issues"
-    },
-    {
-        "changeType": "FIX",
-        "changeDescription": "Fixed Main Menu shadow problems"
-    },
-    {
-        "changeType": "FIX",
-        "changeDescription": "Fixed configs changing keybinds"
-    },
-    {
-        "changeType": "FIX",
-        "changeDescription": "Fixed scaffold rotations"
+        "changeType": "UPDATE",
+        "changeDescription": "Improve timer disabler"
     }
 ]
