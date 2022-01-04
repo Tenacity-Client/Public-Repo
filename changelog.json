@@ -1,23 +1,55 @@
 [
     {
         "changeType": "UPDATE",
-        "changeDescription": "Improve the way online configs are handled"
+        "changeDescription": "Updated the look of Session Stats"
+    },
+    {
+        "changeType": "NEW",
+        "changeDescription": "Added scripts panel to the Side Gui"
+    },
+    {
+        "changeType": "UPDATE",
+        "changeDescription": "Made it easier to understand where the Side Gui was placed"
+    },
+    {
+        "changeType": "NEW",
+        "changeDescription": "New Hypixel speed (New 2)"
+    },
+    {
+        "changeType": "UPDATE",
+        "changeDescription": "Improved Scaffold"
+    },
+    {
+        "changeType": "UPDATE",
+        "changeDescription": "Renamed Watchdog phase options"
+    },
+    {
+        "changeType": "NEW",
+        "changeDescription": "Eagle Module"
     },
     {
         "changeType": "FIX",
-        "changeDescription": "Fixed Microsoft authentication"
+        "changeDescription": "Fixed targetstrafe circle animation"
     },
     {
         "changeType": "FIX",
-        "changeDescription": "Fixed scaffold for BlocksMC"
+        "changeDescription": "Improved ram usage by fonts"
     },
     {
-        "changeType": "DELETE",
-        "changeDescription": "Removed Christmas theme"
+        "changeType": "FIX",
+        "changeDescription": "Fixed cracked account crashing.... maybe"
     },
     {
-        "changeType": "DELETE",
-        "changeDescription": "Removed StaffAnalyzer module"
+        "changeType": "FIX",
+        "changeDescription": "Fixed other crashes"
+    },
+    {
+        "changeType": "NEW",
+        "changeDescription": "Updated rounded rect function in scripting"
+    },
+    {
+        "changeType": "FIX",
+        "changeDescription": "Fixed most bugs with scripting"
     },
     {
         "changeType": "UPDATE",
@@ -25,18 +57,6 @@
     },
     {
         "changeType": "UPDATE",
-        "changeDescription": "Improved Scaffold rotations"
-    },
-    {
-        "changeType": "FIX",
-        "changeDescription": "Fixed Verus Bhop"
-    },
-    {
-        "changeType": "NEW",
-        "changeDescription": "Reload button to Config Gui"
-    },
-    {
-        "changeType": "UPDATE",
-        "changeDescription": "Improve timer disabler"
+        "changeDescription": "Added Load visuals option for the Config Gui"
     }
 ]
