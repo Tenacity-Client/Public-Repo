@@ -1,19 +1,11 @@
 [
     {
-        "changeType": "UPDATE",
-        "changeDescription": "Updated the look of Session Stats"
+        "changeType": "FIX",
+        "changeDescription": "Attempted to fix crashes"
     },
     {
-        "changeType": "NEW",
-        "changeDescription": "Added scripts panel to the Side Gui"
-    },
-    {
-        "changeType": "UPDATE",
-        "changeDescription": "Made it easier to understand where the Side Gui was placed"
-    },
-    {
-        "changeType": "NEW",
-        "changeDescription": "New Hypixel speed (New 2)"
+        "changeType": "FIX",
+        "changeDescription": "Fixed Hypixel Bypasses"
     },
     {
         "changeType": "UPDATE",
@@ -21,42 +13,26 @@
     },
     {
         "changeType": "UPDATE",
-        "changeDescription": "Renamed Watchdog phase options"
-    },
-    {
-        "changeType": "NEW",
-        "changeDescription": "Eagle Module"
+        "changeDescription": "Updated scripting functions"
     },
     {
         "changeType": "FIX",
-        "changeDescription": "Fixed targetstrafe circle animation"
+        "changeDescription": "Attempted to fix minecraft font renderer fps drops"
     },
     {
         "changeType": "FIX",
-        "changeDescription": "Improved ram usage by fonts"
-    },
-    {
-        "changeType": "FIX",
-        "changeDescription": "Fixed cracked account crashing.... maybe"
-    },
-    {
-        "changeType": "FIX",
-        "changeDescription": "Fixed other crashes"
-    },
-    {
-        "changeType": "NEW",
-        "changeDescription": "Updated rounded rect function in scripting"
-    },
-    {
-        "changeType": "FIX",
-        "changeDescription": "Fixed most bugs with scripting"
+        "changeDescription": "Fixed Blocks MC Disabler"
     },
     {
         "changeType": "UPDATE",
-        "changeDescription": "Improved Autoblock"
+        "changeDescription": "Session Stats now run without being enabled"
     },
     {
         "changeType": "UPDATE",
-        "changeDescription": "Added Load visuals option for the Config Gui"
+        "changeDescription": "Improve AutoPlay and Session Stats"
+    },
+    {
+        "changeType": "NEW",
+        "changeDescription": "Neverlose watermark"
     }
 ]
