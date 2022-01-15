@@ -1,38 +1,30 @@
 [
     {
-        "changeType": "FIX",
-        "changeDescription": "Attempted to fix crashes"
+        "changeType": "NEW",
+        "changeDescription": "Hypixel Fly"
     },
     {
         "changeType": "FIX",
-        "changeDescription": "Fixed Hypixel Bypasses"
-    },
-    {
-        "changeType": "UPDATE",
-        "changeDescription": "Improved Scaffold"
-    },
-    {
-        "changeType": "UPDATE",
-        "changeDescription": "Updated scripting functions"
+        "changeDescription": "Fixed Hypixel Scaffold"
     },
     {
         "changeType": "FIX",
-        "changeDescription": "Attempted to fix minecraft font renderer fps drops"
+        "changeDescription": "Fixed Aura autoblock"
     },
     {
         "changeType": "FIX",
-        "changeDescription": "Fixed Blocks MC Disabler"
-    },
-    {
-        "changeType": "UPDATE",
-        "changeDescription": "Session Stats now run without being enabled"
-    },
-    {
-        "changeType": "UPDATE",
-        "changeDescription": "Improve AutoPlay and Session Stats"
+        "changeDescription": "Fix eagle"
     },
     {
         "changeType": "NEW",
-        "changeDescription": "Neverlose watermark"
+        "changeDescription": "BlockAim"
+    },
+    {
+        "changeType": "FIX",
+        "changeDescription": "Fix Hypixel title check for chest stealer"
+    },
+    {
+        "changeType": "UPDATE",
+        "changeDescription": "Improve Low hop watchdog mode"
     }
 ]
