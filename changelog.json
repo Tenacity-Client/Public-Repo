@@ -1,30 +1,14 @@
 [
     {
         "changeType": "NEW",
-        "changeDescription": "Hypixel Fly"
+        "changeDescription": "Timer Disabler"
     },
     {
         "changeType": "FIX",
-        "changeDescription": "Fixed Hypixel Scaffold"
-    },
-    {
-        "changeType": "FIX",
-        "changeDescription": "Fixed Aura autoblock"
-    },
-    {
-        "changeType": "FIX",
-        "changeDescription": "Fix eagle"
-    },
-    {
-        "changeType": "NEW",
-        "changeDescription": "BlockAim"
-    },
-    {
-        "changeType": "FIX",
-        "changeDescription": "Fix Hypixel title check for chest stealer"
+        "changeDescription": "Fixed Crashes"
     },
     {
         "changeType": "UPDATE",
-        "changeDescription": "Improve Low hop watchdog mode"
+        "changeDescription": "Change names of watchdog speed modes"
     }
 ]
